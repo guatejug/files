@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <h:head>
+        <title>Crear usuario</title>
+    </h:head>
+    <h:body>  
+        <h1>Java Day GT</h1>
+        <fieldset>
+            <legend>Agregar usuario</legend>            
+            <h:form id="formIngreso">                               
+                <h:panelGrid columns="3">
+                    <h:outputText value="Nombre:"/>                    
+                    <h:inputText  label="Nombre" id="nombre" 
+                                  value="#{usuarioManager.usuarioActual.nombre}" required="true"/>
+                    <h:message for="nombre" errorStyle="color:red" />
+                    
+                    <h:outputText value="Apellido: "/>                    
+                    <h:inputText  label="Apellido" id="apellido"
+                                  value="#{usuarioManager.usuarioActual.apellido}" required="true"/>
+                    <h:message for="apellido" errorStyle="color:red" />
+                    
+                    <h:outputText value="Correo:"/>                    
+                    <h:inputText  label="Correo" id ="correo"
+                                  value="#{usuarioManager.usuarioActual.correo}" required="true"/>
+                    <h:message for="correo" errorStyle="color:red" />
+                    
+                    <h:outputText value="Edad:"/>                    
+                    <h:inputText  label="Edad" id ="edad"
+                                  value="#{usuarioManager.usuarioActual.edad}" required="true"/>
+                    <h:message for="edad" errorStyle="color:red" />
+                    
+                    <h:outputText value="Fecha nacimiento: "/>                    
+                    <h:inputText  label="Fecha nacimiento" id="fechaNacimiento"
+                                  value="#{usuarioManager.usuarioActual.fechaNacimiento}" required="true">
+                        <f:convertDateTime dateStyle="short" 
+                                           pattern="dd/MM/yyyy"/>
+                    </h:inputText> 
+                    <h:message for="fechaNacimiento" errorStyle="color:red" />
+                    
+                    <h:outputText value="Comida favorita: "/>  
+                    <h:selectOneMenu label="Comida favorita" id="comidaFav"
+                                     value="#{usuarioManager.usuarioActual.comidaFavorita}">
+                        <f:selectItems value="#{usuarioManager.comidaFavorita}" />
+                    </h:selectOneMenu>
+                    <h:message for="comidaFav" errorStyle="color:red" />
+                    
+                    <h:commandButton action="#{usuarioManager.save}" value="Guardar"></h:commandButton>
+                </h:panelGrid>
+            </h:form>
+        </fieldset>
+    </h:body>
+</html>
+
+

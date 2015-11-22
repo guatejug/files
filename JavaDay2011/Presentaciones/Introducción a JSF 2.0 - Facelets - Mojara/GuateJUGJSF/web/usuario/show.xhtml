@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html">
+    <h:head>
+        <title>Creación de usuario</title>        
+    </h:head>
+    <h:body>
+        <h1>Java Day GT</h1>
+        <fieldset>
+            <legend>Usuario creado satisfactoriamente con los siguiente datos ;)</legend>
+            <h:form>
+                <h:messages errorStyle="color:red"/>               
+                <h:panelGrid columns="2">
+                    <h:outputText value="Nombre:"/>                    
+                    <h:outputText  value="#{usuarioManager.usuarioActual.nombre}" />
+                    <h:outputText value="Apellido: "/>                    
+                    <h:outputText  value="#{usuarioManager.usuarioActual.apellido}" />
+                    <h:outputText value="Edad: "/>                    
+                    <h:outputText  value="#{usuarioManager.usuarioActual.edad}" />
+                    <h:outputText value="Correo:"/>                    
+                    <h:outputText  value="#{usuarioManager.usuarioActual.correo}" />
+                    <h:outputText value="Fecha nacimiento: "/>                    
+                    <h:outputText  value="#{usuarioManager.usuarioActual.fechaNacimiento}" />   
+                    <h:outputText value="Comida favorita: "/>                    
+                    <h:outputText  value="#{usuarioManager.usuarioActual.comidaFavorita}" />   
+                    <h:commandButton action="/welcome.do" value="Regresar"></h:commandButton>
+                </h:panelGrid>
+            </h:form>
+        </fieldset>
+    </h:body>
+</html>
+
