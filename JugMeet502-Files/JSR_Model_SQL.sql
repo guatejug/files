@@ -1,16 +1,16 @@
 
-CREATE SEQUENCE public.period_time_id_seq;
+CREATE SEQUENCE public.period_id_seq;
 
-CREATE TABLE public.period_time (
-                period_time_id INTEGER NOT NULL DEFAULT nextval('public.period_time_id_seq'),
+CREATE TABLE public.period (
+                period_id INTEGER NOT NULL DEFAULT nextval('public.period_id_seq'),
                 period_date DATE NOT NULL,
                 start_time TIME NOT NULL,
                 end_time TIME NOT NULL,
-                CONSTRAINT period_time PRIMARY KEY (period_time_id)
+                CONSTRAINT period_pk PRIMARY KEY (period_id)
 );
 
 
-ALTER SEQUENCE public.period_time_id_seq OWNED BY public.period_time.period_time_id;
+ALTER SEQUENCE public.period_id_seq OWNED BY public.period.period_id;
 
 CREATE TABLE public.location (
                 location_id INTEGER NOT NULL,
@@ -98,9 +98,9 @@ ALTER SEQUENCE public.lecture_id_seq OWNED BY public.lecture.lecture_id;
 
 CREATE TABLE public.schedule (
                 lecture_id INTEGER NOT NULL,
-                period_time_id INTEGER NOT NULL,
                 location_id INTEGER NOT NULL,
-                CONSTRAINT schedule_pk PRIMARY KEY (lecture_id, period_time_id, location_id)
+                period_id INTEGER NOT NULL,
+                CONSTRAINT schedule_pk PRIMARY KEY (lecture_id, location_id, period_id)
 );
 
 
@@ -180,9 +180,9 @@ CREATE TABLE public.attendee_lecture (
 );
 
 
-ALTER TABLE public.schedule ADD CONSTRAINT period_time_schedule_fk
-FOREIGN KEY (period_time_id)
-REFERENCES public.period_time (period_time_id)
+ALTER TABLE public.schedule ADD CONSTRAINT period_schedule_fk
+FOREIGN KEY (period_id)
+REFERENCES public.period (period_id)
 ON DELETE NO ACTION
 ON UPDATE NO ACTION
 NOT DEFERRABLE;
@@ -297,4 +297,4 @@ FOREIGN KEY (attendee_id)
 REFERENCES public.attendee (attendee_id)
 ON DELETE NO ACTION
 ON UPDATE NO ACTION
-NOT DEFERRABLE; 
+NOT DEFERRABLE;

@@ -256,7 +256,7 @@
     <column id="COL69" populated="true" UUID="bb567ce5-cadf-45c0-88cf-dfc43be47c57" autoIncrement="true" autoIncrementSequenceName="permission_id_seq" defaultValue="" name="permission_id" nullable="0" physicalName="permission_id" precision="0" primaryKeySeq="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
      <remarks></remarks>
     </column>
-    <column id="COL70" populated="true" UUID="dde8a876-be6b-4e4b-b73d-d845f4cff757" autoIncrement="false" autoIncrementSequenceName="roles_name_seq" defaultValue="" name="name" nullable="0" physicalName="name" precision="50" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="12" userDefinedTypeUUID="831ac2d4-0e65-47ec-a0b7-62b7f6b8760a" >
+    <column id="COL70" populated="true" UUID="dde8a876-be6b-4e4b-b73d-d845f4cff757" autoIncrement="false" autoIncrementSequenceName="roles_name_seq_1" defaultValue="" name="name" nullable="0" physicalName="name" precision="50" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="12" userDefinedTypeUUID="831ac2d4-0e65-47ec-a0b7-62b7f6b8760a" >
      <remarks></remarks>
     </column>
     </folder>
@@ -367,10 +367,10 @@
     <column id="COL99" populated="true" UUID="65324563-e839-49c2-9fc5-0fd1e8da2ae8" autoIncrement="false" defaultValue="" name="lecture_id" nullable="0" physicalName="lecture_id" precision="0" primaryKeySeq="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
      <remarks></remarks>
     </column>
-    <column id="COL100" populated="true" UUID="249ffc05-c121-4d56-a40d-191df45add02" autoIncrement="false" defaultValue="" name="period_time_id" nullable="0" physicalName="period_time_id" precision="0" primaryKeySeq="1" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
+    <column id="COL100" populated="true" UUID="bb438a30-d91d-488e-9919-cc18d7f3101c" autoIncrement="false" autoIncrementSequenceName="location_location_id_seq" defaultValue="" name="location_id" nullable="0" physicalName="location_id" precision="0" primaryKeySeq="1" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
      <remarks></remarks>
     </column>
-    <column id="COL101" populated="true" UUID="bb438a30-d91d-488e-9919-cc18d7f3101c" autoIncrement="false" autoIncrementSequenceName="location_location_id_seq" defaultValue="" name="location_id" nullable="0" physicalName="location_id" precision="0" primaryKeySeq="2" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
+    <column id="COL101" populated="true" UUID="9638b907-cc61-4e5b-84a1-1075b5d51f92" autoIncrement="false" autoIncrementSequenceName="period_period_id_seq" defaultValue="" name="period_id" nullable="0" physicalName="period_id" precision="0" primaryKeySeq="2" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
      <remarks></remarks>
     </column>
     </folder>
@@ -381,15 +381,15 @@
     <folder id="FOLTAB984" populated="true" name="Indices" physicalName="Indices" type="4">
     <index id="IDX102" populated="true" UUID="ce37a2b6-cce7-4fd3-bac9-a7189cc6effd" clustered="false" name="schedule_pk" physicalName="schedule_pk" primaryKeyIndex="true" unique="false" >
      <index-column id="IDC103" populated="true" UUID="4be29211-9b77-4407-aca2-cf58be92fa9c" ascendingOrDescending="UNSPECIFIED" column-ref="COL99" name="lecture_id" physicalName="lecture_id" />
-     <index-column id="IDC104" populated="true" UUID="bc3bae40-d931-4747-884b-b10eaaa8b047" ascendingOrDescending="UNSPECIFIED" column-ref="COL100" name="period_time_id" physicalName="period_time_id" />
-     <index-column id="IDC105" populated="true" UUID="d7df14a0-264c-4d89-9420-421685e3c71d" ascendingOrDescending="UNSPECIFIED" column-ref="COL101" name="location_id" physicalName="location_id" />
+     <index-column id="IDC104" populated="true" UUID="d7df14a0-264c-4d89-9420-421685e3c71d" ascendingOrDescending="UNSPECIFIED" column-ref="COL100" name="location_id" physicalName="location_id" />
+     <index-column id="IDC105" populated="true" UUID="de135c3f-4d89-49a4-aa59-821a5a4a35c2" ascendingOrDescending="UNSPECIFIED" column-ref="COL101" name="period_id" physicalName="period_id" />
     </index>
    </folder>
   </table>
   <table id="TAB106" populated="true" UUID="76293f1b-ca4f-45d6-8f4b-390825e09abc" name="location" objectType="TABLE" physicalName="location" >
    <remarks></remarks>
    <folder id="FOLTAB1061" populated="true" name="Columns" physicalName="Columns" type="1">
-    <column id="COL107" populated="true" UUID="74845974-a52a-4079-8d62-1d246d435bcb" autoIncrement="false" autoIncrementSequenceName="location_location_id_seq" defaultValue="" name="location_id" nullable="0" physicalName="location_id" precision="0" primaryKeySeq="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
+    <column id="COL107" populated="true" UUID="74845974-a52a-4079-8d62-1d246d435bcb" autoIncrement="false" autoIncrementSequenceName="location_location_id_seq_1" defaultValue="" name="location_id" nullable="0" physicalName="location_id" precision="0" primaryKeySeq="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
      <remarks></remarks>
     </column>
     <column id="COL108" populated="true" UUID="8bd20d78-3e07-4765-8e2a-ea600e34a44a" autoIncrement="false" autoIncrementSequenceName="location_name_seq" defaultValue="" name="name" nullable="0" physicalName="name" precision="50" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="12" userDefinedTypeUUID="831ac2d4-0e65-47ec-a0b7-62b7f6b8760a" >
@@ -409,19 +409,19 @@
     </index>
    </folder>
   </table>
-  <table id="TAB112" populated="true" UUID="27f56dc1-37ba-4f35-9ff3-3dfe9bc9a430" name="period_time" objectType="TABLE" physicalName="period_time" >
+  <table id="TAB112" populated="true" UUID="e7ab74b3-671b-4d05-b73e-395e93dd2c3a" name="period" objectType="TABLE" physicalName="period" >
    <remarks></remarks>
    <folder id="FOLTAB1121" populated="true" name="Columns" physicalName="Columns" type="1">
-    <column id="COL113" populated="true" UUID="52cbd5be-c3f8-4767-8999-c725717c751f" autoIncrement="true" autoIncrementSequenceName="period_time_id_seq" defaultValue="" name="period_time_id" nullable="0" physicalName="period_time_id" precision="0" primaryKeySeq="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
+    <column id="COL113" populated="true" UUID="130e7657-951d-417e-a0ab-1b347643c4de" autoIncrement="true" autoIncrementSequenceName="period_id_seq" defaultValue="" name="period_id" nullable="0" physicalName="period_id" precision="0" primaryKeySeq="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
      <remarks></remarks>
     </column>
-    <column id="COL114" populated="true" UUID="49e80353-5d44-430a-897c-c07e9335ab4e" autoIncrement="false" autoIncrementSequenceName="period_time_period_date_seq" defaultValue="" name="period_date" nullable="0" physicalName="period_date" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="91" userDefinedTypeUUID="ee349be3-6af2-46e1-b305-975f5354b009" >
+    <column id="COL114" populated="true" UUID="1ec9c984-1bf8-427f-805c-a26058cf50ce" autoIncrement="false" autoIncrementSequenceName="period_period_date_seq" defaultValue="" name="period_date" nullable="0" physicalName="period_date" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="91" userDefinedTypeUUID="ee349be3-6af2-46e1-b305-975f5354b009" >
      <remarks></remarks>
     </column>
-    <column id="COL115" populated="true" UUID="6892aac3-cb2e-475a-8ff4-8849e2c9e57a" autoIncrement="false" autoIncrementSequenceName="period_time_start_time_seq" defaultValue="" name="start_time" nullable="0" physicalName="start_time" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="92" userDefinedTypeUUID="10d6960f-169d-47c2-860a-37341342b1d5" >
+    <column id="COL115" populated="true" UUID="944bd480-aa24-4c45-b4ea-d69545d2dcbf" autoIncrement="false" autoIncrementSequenceName="period_start_time_seq" defaultValue="" name="start_time" nullable="0" physicalName="start_time" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="92" userDefinedTypeUUID="10d6960f-169d-47c2-860a-37341342b1d5" >
      <remarks></remarks>
     </column>
-    <column id="COL116" populated="true" UUID="ab85fc70-75e7-462c-a08d-74e22f17bff2" autoIncrement="false" autoIncrementSequenceName="period_time_end_time_seq" defaultValue="" name="end_time" nullable="0" physicalName="end_time" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="92" userDefinedTypeUUID="10d6960f-169d-47c2-860a-37341342b1d5" >
+    <column id="COL116" populated="true" UUID="a3195d01-a21c-4243-83a5-0df69d94f9ad" autoIncrement="false" autoIncrementSequenceName="period_end_time_seq" defaultValue="" name="end_time" nullable="0" physicalName="end_time" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="92" userDefinedTypeUUID="10d6960f-169d-47c2-860a-37341342b1d5" >
      <remarks></remarks>
     </column>
     </folder>
@@ -430,8 +430,8 @@
     <folder id="FOLTAB1122" populated="true" name="Imported Keys" physicalName="Imported Keys" type="2">
     </folder>
     <folder id="FOLTAB1124" populated="true" name="Indices" physicalName="Indices" type="4">
-    <index id="IDX117" populated="true" UUID="c2ab7528-1fd0-4cf3-8b0d-d6675393ba6c" clustered="false" name="period_time" physicalName="period_time" primaryKeyIndex="true" unique="false" >
-     <index-column id="IDC118" populated="true" UUID="0af3e4b2-f504-4b92-aaad-cd686dc11bb9" ascendingOrDescending="UNSPECIFIED" column-ref="COL113" name="period_time_id" physicalName="period_time_id" />
+    <index id="IDX117" populated="true" UUID="57bf2ca1-637c-4ddd-b96d-d743c9c82018" clustered="false" name="period_pk" physicalName="period_pk" primaryKeyIndex="true" unique="false" >
+     <index-column id="IDC118" populated="true" UUID="8a1830e5-9bfe-4e32-a97c-c5226cbaa08f" ascendingOrDescending="UNSPECIFIED" column-ref="COL113" name="period_id" physicalName="period_id" />
     </index>
    </folder>
   </table>
@@ -481,18 +481,23 @@
    <relationship id="REL147" populated="true" UUID="2f848ae9-da17-471b-a91c-3bfe8cfd8e3d" deferrability="7" deleteRule="3" fk-table-ref="TAB91" fkCardinality="7" identifying="true" name="evaluator_evaluator_historial_fk" physicalName="evaluator_evaluator_historial_fk" pk-table-ref="TAB85" pkCardinality="2" updateRule="3" >
     <column-mapping id="CMP148" populated="true" UUID="6fcf236f-287c-48d2-bbc6-46f6c6d90471" fk-column-ref="COL92" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL86" />
    </relationship>
-   <relationship id="REL149" populated="true" UUID="2bfd7c0b-5cf8-45c4-b341-c849e97dd485" deferrability="7" deleteRule="3" fk-table-ref="TAB98" fkCardinality="7" identifying="false" name="location_schedule_fk" physicalName="location_schedule_fk" pk-table-ref="TAB106" pkCardinality="2" updateRule="3" >
-    <column-mapping id="CMP150" populated="true" UUID="967da087-0b58-49c0-b980-3ce38a0bb27f" fk-column-ref="COL101" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL107" />
+   <relationship id="REL149" populated="true" UUID="2bfd7c0b-5cf8-45c4-b341-c849e97dd485" deferrability="7" deleteRule="3" fk-table-ref="TAB98" fkCardinality="7" identifying="true" name="location_schedule_fk" physicalName="location_schedule_fk" pk-table-ref="TAB106" pkCardinality="2" updateRule="3" >
+    <column-mapping id="CMP150" populated="true" UUID="f4c844f9-87ee-4eac-bb98-161d1df21ebf" fk-column-ref="COL100" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL107" />
    </relationship>
-   <relationship id="REL151" populated="true" UUID="0b8db821-fb73-4e25-88ea-6a147a1b8712" deferrability="7" deleteRule="3" fk-table-ref="TAB98" fkCardinality="7" identifying="false" name="period_time_schedule_fk" physicalName="period_time_schedule_fk" pk-table-ref="TAB112" pkCardinality="2" updateRule="3" >
-    <column-mapping id="CMP152" populated="true" UUID="50de4ad9-f9b1-415c-ae30-54871dc6c97e" fk-column-ref="COL100" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL113" />
+   <relationship id="REL151" populated="true" UUID="19cc3695-6e8e-4993-a404-067e14fee513" deferrability="7" deleteRule="3" fk-table-ref="TAB98" fkCardinality="7" identifying="true" name="period_schedule_fk" physicalName="period_schedule_fk" pk-table-ref="TAB112" pkCardinality="2" updateRule="3" >
+    <column-mapping id="CMP152" populated="true" UUID="45a1e0b3-e32d-41e6-903e-6e96917a9fbc" fk-column-ref="COL101" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL113" />
    </relationship>
   </relationships>
  </target-database>
- <ddl-generator type="ca.sqlpower.architect.ddl.GenericDDLGenerator" allow-connection="true"> </ddl-generator>
+ <ddl-generator type="ca.sqlpower.architect.ddl.PostgresDDLGenerator" allow-connection="false" target-schema="public"> </ddl-generator>
  <liquibase-settings useSeparateChangeSets="false" generateId="false" idStart="1"/>
+ <compare-dm-settings  ddlGenerator="ca.sqlpower.architect.ddl.PostgresDDLGenerator"  outputFormatAsString="SQL"  saveFlag="true" >
+  <source-stuff   datastoreTypeAsString="DATABASE"   connectName="JugMeet502"   filePath=""  />
+  <target-stuff   datastoreTypeAsString="PROJECT"   connectName="JugMeet502"   filePath=""  />
+  <liquibase-settings useSeparateChangeSets="false" generateId="false" idStart="1"/>
+ </compare-dm-settings>
  <create-kettle-job-settings filePath="" jobName="" schemaName="" kettleJoinType="0" savingToFile="true" />
- <play-pen zoom="0.9999999999999998" viewportX="115" viewportY="280" relationship-style="rectilinear" names-displayLogicalNames="true" showPrimaryTag="true" showForeignTag="true" showAlternateTag="true" columnVisibility="ALL" relationshipLabelVisibility="true">
+ <play-pen zoom="0.9999999999999998" viewportX="0" viewportY="273" relationship-style="rectilinear" names-displayLogicalNames="true" showPrimaryTag="true" showForeignTag="true" showAlternateTag="true" columnVisibility="ALL" relationshipLabelVisibility="true">
   <table-pane table-ref="TAB1" x="213" y="206" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB15" x="651" y="210" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB23" x="697" y="487" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
@@ -509,7 +514,7 @@
   <table-pane table-ref="TAB91" x="974" y="632" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB98" x="690" y="730" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-pane table-ref="TAB106" x="936" y="833" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
-  <table-pane table-ref="TAB112" x="462" y="823" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
+  <table-pane table-ref="TAB112" x="344" y="813" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
   <table-link relationship-ref="REL121" pkConnection="0.6148148148148148" fkConnection="0.45454545454545453" rLineColor="0x333333" pkLabelText="" fkLabelText="" orientation="130"/>
   <table-link relationship-ref="REL123" pkConnection="0.3142857142857143" fkConnection="0.46524064171123" rLineColor="0x333333" pkLabelText="" fkLabelText="" orientation="66"/>
   <table-link relationship-ref="REL133" pkConnection="0.5833333333333334" fkConnection="0.48333333333333334" rLineColor="0x333333" pkLabelText="" fkLabelText="" orientation="33"/>
@@ -525,8 +530,8 @@
   <table-link relationship-ref="REL129" pkConnection="0.3238095238095238" fkConnection="0.6416666666666667" rLineColor="0x333333" pkLabelText="" fkLabelText="" orientation="33"/>
   <table-link relationship-ref="REL147" pkConnection="0.5524861878453039" fkConnection="0.4734042553191489" rLineColor="0x333333" pkLabelText="" fkLabelText="" orientation="132"/>
   <table-link relationship-ref="REL131" pkConnection="0.5193370165745856" fkConnection="0.4891304347826087" rLineColor="0x333333" pkLabelText="" fkLabelText="" orientation="132"/>
-  <table-link relationship-ref="REL151" pkConnection="0.5076923076923077" fkConnection="0.5466666666666666" rLineColor="0x333333" pkLabelText="" fkLabelText="" orientation="40"/>
   <table-link relationship-ref="REL149" pkConnection="0.5" fkConnection="0.5888888888888889" rLineColor="0x333333" pkLabelText="" fkLabelText="" orientation="24"/>
+  <table-link relationship-ref="REL151" pkConnection="0.5185185185185185" fkConnection="0.5466666666666666" rLineColor="0x333333" pkLabelText="" fkLabelText="" orientation="40"/>
  </play-pen>
  <critic-manager>
   <critic-grouping platformType="Generic" enabled="true">
