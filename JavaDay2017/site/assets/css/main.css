@@ -739,7 +739,7 @@ fieldset[disabled] .btn {
   color: #2d2d2d;
 }
 /* ==========================================================================
-   About
+   About 
    ========================================================================== */
 #about .service-block {
   text-align: center;
@@ -1425,7 +1425,7 @@ h1 {
   width: 100%;
 }
 /* ==========================================================================
-   Contact Forem
+   Contact Forem 
    ========================================================================== */
 .main-content {
   background: url(../img/background/contact-bg.jpg) center;
@@ -1649,7 +1649,7 @@ footer ul li a {
   font-weight: 400;
 }
 /* ==========================================================================
-   Copyright Section
+   Copyright Section 
    ========================================================================== */
 #copyright {
   background: #333;
@@ -1660,7 +1660,7 @@ footer ul li a {
   margin: 0;
 }
 /* ==========================================================================
-   Subscribe Section
+   Subscribe Section 
    ========================================================================== */
 #subscribe-section {
   background: url(../img/background/header-bg.jpg);
@@ -2298,8 +2298,4 @@ blockquote .quote-text {
 .form-control:focus {
   box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.14);
   outline: none;
-}
-
-element {
-	min-height: 125px;
 }

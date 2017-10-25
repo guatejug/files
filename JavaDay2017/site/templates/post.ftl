@@ -1,5 +1,6 @@
 <#include "header.ftl">
 
+<#include "menu.ftl">
 
 <!-- Page Header Start -->
 <div class="page-header">
@@ -20,6 +21,14 @@
 <section id="${content.title}" class="section">
 
 	<div class="container">
+<div class="row">
+<div class="col-md-12 col-sm-12 col-xs-12">
+<div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+	<img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/post/${content.img}" alt="" width="500px">
+	</div>
+</div>
+
+	</div>
 <div class="row">
 
 	${content.body}

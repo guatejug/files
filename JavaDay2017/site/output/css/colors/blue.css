@@ -68,13 +68,13 @@ a:hover{
 .navbar-event .navbar-nav > .open > a:hover {
   color: #03A9F4;
 }
-.navbar-event .navbar-nav > .active > a, 
+.navbar-event .navbar-nav > .active > a,
 .navbar-event .navbar-nav > .active > a:hover{
   color: #fff;
 }
 /* Countdown */
 .countdown-timer .text h4{
-  color: #03A9F4; 
+  color: #03A9F4;
 }
 .time-entry span{
     color: #03A9F4;
@@ -88,12 +88,12 @@ a:hover{
   color: #03A9F4;
 }
 /* Schedule */
-.main-board .day > li.active > a, 
-.main-board .day > li.active > a:focus, 
+.main-board .day > li.active > a,
+.main-board .day > li.active > a:focus,
 .main-board .day > li.active > a:hover{
   background-color: #03A9F4;
 }
-.main-board .day > li > a:focus, 
+.main-board .day > li > a:focus,
 .main-board .day > li > a:hover{
   background: #03A9F4;
 }
@@ -144,8 +144,8 @@ a:hover{
 #subscribe-section::before{
   background: #03A9F4;
 }
-#subscribe-section 
-.subscribe-box 
+#subscribe-section
+.subscribe-box
 .subscribe-form button:hover{
   color: #03A9F4;
 }
@@ -186,7 +186,7 @@ a:hover{
 .post-slide .post-content .meta .meta-part a:hover{
   color: #03A9F4;
 }
-.owl-theme .owl-controls .owl-page.active span, 
+.owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span{
   background: #03A9F4;
 }

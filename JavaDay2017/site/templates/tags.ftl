@@ -1,5 +1,5 @@
 <#include "header.ftl">
-
+<#include "menu.ftl">
 
 <!-- Page Header Start -->
 <div class="page-header">

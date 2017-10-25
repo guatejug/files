@@ -1,5 +1,6 @@
 <#include "header.ftl">
 
+<#include "menu.ftl">
 
 <!-- Page Header Start -->
 <div class="page-header">
@@ -21,8 +22,10 @@
 	<section id="Listado charlas" class="section">
 
 		<div class="container">
+		<p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Estaremos publicando el horario final en los proximos dias. Mientras tanto puedes ver nuestras ponencias confirmadas :).</p>
+
 	<div class="row">
-		<#list tag_posts as post>
+		<#list published_posts as post>
 
 
 	<#if (last_tag)??>
