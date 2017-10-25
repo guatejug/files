@@ -6,7 +6,7 @@ status=published
 img=1.0.png
 ~~~~~~
 
-<img src="./img/post/1.1.png" alt="" width="300px">
+<img src="http://www.guate-jug.net/javaday2017/img/post/1.1.png" alt="" width="500px">
 
 ## Descripción
 

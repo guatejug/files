@@ -6,8 +6,8 @@
     <atom:link href="http://guate-jug.net//feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 25 Oct 2017 15:38:17 -0600</pubDate>
-    <lastBuildDate>Wed, 25 Oct 2017 15:38:17 -0600</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2017 15:55:25 -0600</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2017 15:55:25 -0600</lastBuildDate>
 
     <item>
       <title>Kotlin para Android</title>
@@ -15,7 +15,7 @@
       <pubDate>Wed, 25 Oct 2017 00:00:00 -0600</pubDate>
       <guid isPermaLink="false">blog/2017/1-kotlin-para-android.html</guid>
       	<description>
-	&lt;img src=&quot;./img/post/1.1.png&quot; alt=&quot;&quot; width=&quot;300px&quot;&gt;
+	&lt;img src=&quot;http://www.guate-jug.net/javaday2017/img/post/1.1.png&quot; alt=&quot;&quot; width=&quot;500px&quot;&gt;
 &lt;h2&gt;Descripción&lt;/h2&gt;
 &lt;p&gt;Uso de kotlin para el desarrollo de aplicaciones android y su implementación con MVP&lt;/p&gt;
 &lt;h2&gt;Presentador(es)&lt;/h2&gt;

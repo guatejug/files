@@ -31,25 +31,25 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="index.html"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/jdaylogo.png" alt="" height="80px"></a>
+              <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/jdaylogo.png" alt="" height="80px"></a>
             </div>
 
             <div class="collapse navbar-collapse" id="navbar">
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="registro.html">Registro</a></li>
-                <li><a href="archive.html">Horario</a></li>
-                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Inicio</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registro.html">Registro</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Horario</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">Acerca de</a></li>
               </ul>
             </div><!-- /navbar-collapse -->
           </div><!-- /container -->
 
           <!-- Mobile Menu Start -->
           <ul class="wpb-mobile-menu">
-            <li><a href="index.html">Inicio</a></li>
-            <li><a href="registro.html">Registro</a></li>
-            <li><a href="archive.html">Horario</a></li>
-            <li><a href="about.html">Acerca de</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Inicio</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registro.html">Registro</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Horario</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">Acerca de</a></li>
            </ul>
           <!-- Mobile Menu End -->
 
