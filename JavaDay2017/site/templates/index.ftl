@@ -136,13 +136,13 @@
         <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java Master</h3>
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-            <a href="https://www.facebook.com/intecapcentrotics/" target="_blank"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/intecap.jpg" alt=""></a>
+            <a href="https://www.facebook.com/intecapcentrotics/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/intecap.jpg" alt=""></a>
           </div>
         </div>
 
           <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-              <a href="https://www.linkedin.com/jobs/search/?keywords=TELUS%20International&location=Guatemala&locationId=gt%3A0" target="_blank"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/telus.png" alt=""></a>
+              <a href="https://www.linkedin.com/jobs/search/?keywords=TELUS%20International&location=Guatemala&locationId=gt%3A0" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/telus.png" alt=""></a>
             </div>
           </div>
       </div>
@@ -150,17 +150,17 @@
         <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java Associate</h3>
         <div class="col-md-3 col-sm-6 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-            <a href="http://nabenik.com/" target="_blank"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/nabenik.jpg" alt=""></a>
+            <a href="http://nabenik.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/nabenik.jpg" alt=""></a>
           </div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-            <a href="http://is4tech.com/" target="_blank"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/i4t.png" alt=""></a>
+            <a href="http://is4tech.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/i4t.png" alt=""></a>
           </div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-            <a href="http://royalestudios.com/" target="_blank"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/royale.png" alt=""></a>
+            <a href="http://royalestudios.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/royale.png" alt=""></a>
           </div>
         </div>
       </div>
@@ -168,7 +168,7 @@
         <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java Novice</h3>
         <div class="col-md-3 col-sm-6 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-            <a href="http://www.open-training.com/" target="_blank"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/training.png" alt=""></a>
+            <a href="http://www.open-training.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/training.png" alt=""></a>
           </div>
         </div>
       </div>

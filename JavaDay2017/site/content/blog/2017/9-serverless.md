@@ -1,7 +1,7 @@
 title=Arquitectura Serverless
 date=2017-10-25
 type=post
-tags=Desarrollo movíl
+tags=Server side
 status=published
 img=9.0.png
 ~~~~~~
