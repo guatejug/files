@@ -2,6 +2,18 @@
 
 <#include "menu.ftl">
 
+<style type="text/css">
+
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
+</style>
+
 <!-- Page Header Start -->
 <div class="page-header">
 	<div class="container">
@@ -33,7 +45,56 @@
 
 	${content.body}
 	</div>
+
+
+
+<div class="row">
+	<!-- I got these buttons from simplesharebuttons.com -->
+	<div id="share-buttons">
+
+
+	    <!-- Email -->
+	    <a href="mailto:?Subject=Ven a Java Day 2017 ${content.uri}">
+	        <img src="https://simplesharebuttons.com/images/somacro/email.png" alt="Email" />
+	    </a>
+
+	    <!-- Facebook -->
+	    <a href="http://www.facebook.com/sharer.php?u=http://guate-jug.net/javaday2017/${content.uri}" target="_blank">
+	        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+	    </a>
+
+	    <!-- Google+ -->
+	    <a href="https://plus.google.com/share?url=http://guate-jug.net/javaday2017/${content.uri}" target="_blank">
+	        <img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
+	    </a>
+
+	    <!-- LinkedIn -->
+	    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://guate-jug.net/javaday2017/${content.uri}" target="_blank">
+	        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
+	    </a>
+
+	    <!-- Print -->
+	    <a href="javascript:;" onclick="window.print()">
+	        <img src="https://simplesharebuttons.com/images/somacro/print.png" alt="Print" />
+	    </a>
+
+
+	    <!-- Twitter -->
+	    <a href="https://twitter.com/share?url=http://guate-jug.net/javaday2017/${content.uri};hashtags=javaday2017" target="_blank">
+	        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+	    </a>
+
+
 	</div>
+</div>
+
+
+	</div>
+
+
+
+
+
 
 </section>
 
