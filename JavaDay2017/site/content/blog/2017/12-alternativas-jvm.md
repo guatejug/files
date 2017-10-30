@@ -5,6 +5,7 @@ type=post
 tags=Lenguajes emergentes
 status=published
 img=12.0.png
+category=Lenguajes
 ~~~~~~
 
 ## Descripción

@@ -5,6 +5,7 @@ tags=Herramientas y métodologias
 status=published
 img=13.0.png
 summary=Hablaremos de como publicar micro servicios Java en Docker utilizando Amazon ECS.
+category=Herramientas
 ~~~~~~
 
 ## Descripción

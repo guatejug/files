@@ -2,9 +2,10 @@ title=Deploying java apps with kubernetes
 
 date=2017-10-25
 type=post
-tags=Desarrollo movíl
+tags=Server side
 status=published
 img=11.0.png
+category=Server
 ~~~~~~
 
 ## Descripción

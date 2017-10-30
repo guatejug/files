@@ -5,6 +5,7 @@ tags=Server side
 status=published
 img=15.0.png
 summary=Introducción a spring-data y su integración con una base de datos documental.
+category=Server
 ~~~~~~
 
 ## Descripción

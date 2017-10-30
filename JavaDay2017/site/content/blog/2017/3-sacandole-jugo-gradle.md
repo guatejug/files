@@ -4,6 +4,7 @@ type=post
 tags=Herramientas y métodologias
 status=published
 img=3.0.png
+category=Herramientas
 ~~~~~~
 
 ## Descripción

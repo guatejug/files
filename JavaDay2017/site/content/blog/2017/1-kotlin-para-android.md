@@ -4,6 +4,7 @@ type=post
 tags=Lenguajes Emergentes
 status=published
 img=1.0.png
+category=Móvil
 ~~~~~~
 
 <img class="img-responsive center-block" src="http://www.guate-jug.net/javaday2017/img/post/1.1.png" alt="" width="500px">

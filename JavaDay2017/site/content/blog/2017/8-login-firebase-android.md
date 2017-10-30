@@ -1,9 +1,10 @@
 title=Login con Firebase (Android)
 date=2017-10-25
 type=post
-tags=Desarrollo movíl
+tags=Desarrollo móvil
 status=published
 img=8.0.png
+category=Móvil
 ~~~~~~
 
 ## Descripción

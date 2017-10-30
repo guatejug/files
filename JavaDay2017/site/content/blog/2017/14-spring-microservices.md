@@ -5,6 +5,7 @@ tags=Server side
 status=published
 img=14.0.png
 summary=Formá práctica y lista para producción, de crear un ambiente de microservicios apoyado por spring.
+category=Server
 ~~~~~~
 
 ## Descripción

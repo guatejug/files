@@ -4,6 +4,7 @@ type=post
 tags=Server side
 status=published
 img=9.0.png
+category=Server
 ~~~~~~
 
 ## Descripción

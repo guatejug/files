@@ -5,7 +5,7 @@ tags=Server side
 status=published
 img=17.0.png
 summary=En esta charla se mostrará cómo utilizar interceptores para estandarizar solicitudes y respuestas en una API, además de explicar qué es un token JWT y cómo su uso en cada solicitud estandarizada por un interceptor hace nuestra API más segura.
-
+category=Server
 ~~~~~~
 
 ## Descripción

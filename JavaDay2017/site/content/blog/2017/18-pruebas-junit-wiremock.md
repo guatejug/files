@@ -5,6 +5,7 @@ tags=Herramientas y métodologias
 status=published
 img=18.0.png
 summary=La importancia de las pruebas de integracion y las herramientas mas populares para crearlas y verificarlas al desarrollar clientes REST sobre Java.
+category=Herramientas
 ~~~~~~
 
 ## Descripción

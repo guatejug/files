@@ -5,6 +5,7 @@ tags=Herramientas y métodologias
 status=published
 img=19.0.png
 summary=Explicación acerca de como se desarrollan las lecturas de chips smart card y desarrollo de algunos drivers de lectura de tarjetas de crédito
+category=Herramientas
 ~~~~~~
 
 ## Descripción

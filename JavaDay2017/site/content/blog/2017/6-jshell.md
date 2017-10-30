@@ -4,6 +4,7 @@ type=post
 tags=Java Platform
 status=published
 img=6.0.png
+category=Core
 ~~~~~~
 
 ## Descripción
