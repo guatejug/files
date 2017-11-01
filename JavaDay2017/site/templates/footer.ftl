@@ -30,7 +30,11 @@
     <i class="icon-arrow-up"></i>
     </a>
 
-
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'es', includedLanguages: 'de,en,nl', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+    }
+    </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
     <!-- jQuery Load -->
     <script src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/jquery.min.js"></script>

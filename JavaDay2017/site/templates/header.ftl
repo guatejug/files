@@ -40,7 +40,7 @@
    <meta name="twitter:creator" content="@tuxtor">
     <meta name="twitter:image" content="http://guate-jug.net/javaday2017/img/post/${content.img}">
       <#if (content.summary)??>
-       <meta name="description" content="${content.summary}" /> 
+       <meta name="description" content="${content.summary}" />
       	<meta name="twitter:card" value="${content.summary}">
       <#else>
       	<meta name="twitter:card" value="Java Day 2017, la conferencia más grande de Centro America">
@@ -61,3 +61,4 @@
 
   </head>
   <body>
+    

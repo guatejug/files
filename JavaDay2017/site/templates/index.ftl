@@ -171,6 +171,11 @@
             <a href="http://www.open-training.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/training.png" alt=""></a>
           </div>
         </div>
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://twitter.com/OracleDevsLA" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/oracle.png" alt=""></a>
+          </div>
+        </div>
       </div>
 
     </div>

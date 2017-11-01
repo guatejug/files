@@ -20,7 +20,7 @@ Bring Magic To Your Mobile Android App With Deep Learning, training models
 
 
 ## Bio(s)
-* "SWE Android 2 - PayPal
+* SWE Android 2 - PayPal
 
 ## Enlaces
 * https://www.linkedin.com/in/jchavezl/
