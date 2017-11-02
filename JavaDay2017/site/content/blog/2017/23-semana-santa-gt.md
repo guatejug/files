@@ -4,7 +4,7 @@ type=post
 tags=Desarrollo móvil
 status=published
 img=23.0.png
-summary=Como manejar la api de api.ai para crear un bot en Android (Lenguaje Java)
+summary=Como  la cultura y el floklore con ayuda de la tecnología móvil pueden hacer que sin importar sus creencias puedan utilizar el mismo producto para distintos métodos y conveniencias.
 category=Móvil
 ~~~~~~
 <img class="img-responsive center-block" src="http://www.guate-jug.net/javaday2017/img/post/23.1.png" alt="" width="500px">

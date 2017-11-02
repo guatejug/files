@@ -4,7 +4,7 @@ type=post
 tags=Java Platform
 status=published
 img=27.0.png
-summary=Conceptos generales de blockchain, criptomonedas y smart contracts
+summary=Descripción de caracterésticas y Apis de Transaction Guard y Application continuity de Oracle DB 12c
 category=Core
 ~~~~~~
 ## Descripción

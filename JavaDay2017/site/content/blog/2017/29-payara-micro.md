@@ -4,7 +4,7 @@ type=post
 tags=Server side
 status=published
 img=29.0.png
-summary=Exploraremos la creación de microservicios con Payara Micro, aprovechando el código monolítico existente y lo que podríamos esperar en el futuro.
+summary=Creación de microservicios con Payara Micro, aprovechando el código monolítico existente y lo que podríamos esperar en el futuro.
 category=Server
 ~~~~~~
 ## Descripción

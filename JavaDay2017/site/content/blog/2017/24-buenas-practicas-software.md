@@ -4,10 +4,10 @@ type=post
 tags=Herramientas y métodologias
 status=published
 img=24.0.png
-summary=Como manejar la api de api.ai para crear un bot en Android (Lenguaje Java)
+summary=Visión general sobre cómo construir una aplicación de software desde la codificación hasta el despliegue
 category=Herramientas
 ~~~~~~
-<img class="img-responsive center-block" src="http://www.guate-jug.net/javaday2017/img/post/23.1.png" alt="" width="500px">
+<img class="img-responsive center-block" src="http://www.guate-jug.net/javaday2017/img/post/24.1.png" alt="" width="500px">
 
 ## Descripción
 Visión general sobre cómo construir una aplicación de software desde la codificación hasta el despliegue con una sencilla demostración del uso de herramientas gratuitas para un flujo completo.
