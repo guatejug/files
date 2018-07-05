@@ -31,23 +31,23 @@ Si es posible trae tu laptop o equipo portátil para que practique con nosotros,
 
 Bonus Java 10:
 
-    JDK 10 General-Availability Release, descargue según su sistema operativo  http://jdk.java.net/10/
+* JDK 10 General-Availability Release, descargue según su sistema operativo  http://jdk.java.net/10/
 
 JakartaEE 8 con Payara 5:
-    * Java 8 (HotSpot/OpenJDK) [http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-    * Payara Server Full 5.182 [https://www.payara.fish/downloads](https://www.payara.fish/downloads](https://www.payara.fish/downloads)
-    * Netbeans 8.2 Java EE [https://netbeans.org/downloads/](https://netbeans.org/downloads/)
-    * Payara Server Micro [http://plugins.netbeans.org/plugin/72263/payara-server-micro](http://plugins.netbeans.org/plugin/72263/payara-server-micro)
+* Java 8 (HotSpot/OpenJDK) [http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* Payara Server Full 5.182 [https://www.payara.fish/downloads](https://www.payara.fish/downloads](https://www.payara.fish/downloads)
+* Netbeans 8.2 Java EE [https://netbeans.org/downloads/](https://netbeans.org/downloads/)
+* Payara Server Micro [http://plugins.netbeans.org/plugin/72263/payara-server-micro](http://plugins.netbeans.org/plugin/72263/payara-server-micro)
 
-Speakers, Organizadores y JUGs participantes
+# Speakers, Organizadores y JUGs participantes
 
-Organizadores
+## Organizadores
 
 Hacen parte de nuestra comunidad los grupos: Barcelona JUG, Cali JUG, Chile JUG, Coruña JUG, Ecuador JUG, Guate JUG, Madrid JUG, Málaga JUG, Medellín JUG, Nicaragua JUG, Panamá JUG, Perú JUG y Vigo JUG
 
 Esta sesión estará moderada por Guatemala JUG apoyada por Medellin JUG.
 
-Speakers
+## Speakers
 
 Víctor Orozco (@tuxtor): Víctor Orozco cuenta con un master en Ciencias de la Computación como ex becario de la OEA. Jug Leader del grupo de usuarios Java de Guatemala, ganador del premio Duke's Choice Award 2016, e instructor en Edx Micromasters y Oracle WDP para Java.
 
