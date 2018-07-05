@@ -1,16 +1,19 @@
 
+# Meetup comunidad hispana Julio 2018
+
 * **Fecha:** 28/07/2018 (Julio)
 * **Hora:** 8:00 AM (Hora de Guatemala)
 * **Grupo moderador:** Guatemala JUG
 
-Agenda (Definido en horario de Guatemala GMT-6)
-  8:00 - 8:15: Presentación
-  8:15 - 9:00 Workshop Java 10
-  9:00 - 9:15  Hands on lab: Instalación y configuración JakartaEE
-  9:15 - 9:30 Presentación
-  9:30 - 11:00 Workshop
-  11:00 -  11:30 Feedback   
-  11:30 -  12:00 Reunión local cada JUG
+# Agenda (Definido en horario de Guatemala GMT-6)
+
+* 8:00 - 8:15: Presentación
+* 8:15 - 9:00 Workshop Java 10
+* 9:00 - 9:15  Hands on lab: Instalación y configuración JakartaEE
+* 9:15 - 9:30 Presentación
+* 9:30 - 11:00 Workshop
+* 11:00 -  11:30 Feedback   
+* 11:30 -  12:00 Reunión local cada JUG
 
 
 Resumen Hack-days Comunidad Hispana de grupos de usuarios de Java para anunciar evento:
