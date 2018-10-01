@@ -39,6 +39,7 @@
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registration</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Schedule</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
               </ul>
@@ -47,10 +48,11 @@
 
           <!-- Mobile Menu Start -->
           <ul class="wpb-mobile-menu">
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Inicio</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registro.html">Registro</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Horario</a></li>
-            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">Acerca de</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Home</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registration</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Schedule</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
            </ul>
           <!-- Mobile Menu End -->
         </nav>
