@@ -125,15 +125,13 @@
   <section id="sponsors" class="section">
     <div class="container">
       <div class="row">
-
         <div class="col-md-12">
           <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Sponsors</h2>
-          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">GuateJUG is possible thanks to this amazing sponsors.</p>
+          <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">GuateJUG is possible thanks to these amazing sponsors.</p>
         </div>
-
       </div>
       <div class="row">
-        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Java Master</h3>
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Champion Sponsors</h3>
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
             <a href="https://www.facebook.com/intecapcentrotics/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/intecap.jpg" alt=""></a>
@@ -144,7 +142,32 @@
             <a href="http://is4tech.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/i4t.png" alt=""></a>
           </div>
         </div>
-
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://www.flecharoja.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/froja.png" alt=""></a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Master Sponsors</h3>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://academik.io/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/academik.png" alt=""></a>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="http://principal.url.edu.gt/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/url.jpg" alt=""></a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Novice Sponsors</h3>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="http://www.open-training.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/training.png" alt=""></a>
+          </div>
+        </div>
       </div>
 
 

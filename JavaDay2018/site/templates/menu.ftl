@@ -41,6 +41,7 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registration</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Schedule</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Venue</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
               </ul>
             </div><!-- /navbar-collapse -->
@@ -52,6 +53,7 @@
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registration</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Schedule</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Venue</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
            </ul>
           <!-- Mobile Menu End -->
