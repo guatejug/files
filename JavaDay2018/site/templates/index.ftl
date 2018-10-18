@@ -73,7 +73,7 @@
         <i class="icon-location-pin"></i>
         </div>
         <div class="desc">
-        <h4>Where</h4>
+        <h4><a href="http://www.guate-jug.net/javaday2018/venue.html">Where</a></h4>
         <p>Centro Tics Intecap</p>
         </div>
         </div>
@@ -107,7 +107,7 @@
         </div>
         <div class="desc left">
         <h4>Tickets</h4>
-        <p>500 free tickets</p>
+        <p>250 free tickets</p>
         </div>
         </div>
         </div>

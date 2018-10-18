@@ -6,7 +6,8 @@ status=published
 
 INTECAP Centro Tics is opening again its doors to receive the Central American Java community
 
-* Calle del Estadio Guamuch Flores 8-79 Zona 5
+* Calle del Estadio Guamuch Flores 8-79 Zona 5, 01005
+* Ciudad de Guatemala, Guatemala
 * http://intecap.edu.gt/cti
 
 
