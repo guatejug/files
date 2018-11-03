@@ -23,9 +23,9 @@
           <div class="item">
             <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-2.jpg" alt="">
             <div class="carousel-caption">
-              <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
+              <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule is now available</h2>
               <div class="buttons">
-              <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/javaday2017/archive.html">2017 speakers</a></div>
+              <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/javaday2013/archive.html">See speakers</a></div>
               </div>
               <a data-scroll href="#featured">
               <div class="rev-scroll-btn wow fadeInUp" data-wow-delay="600ms">
@@ -157,7 +157,7 @@
         </div>
         <div class="col-md-4 col-sm-4 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-            <a href="http://principal.url.edu.gt/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/url.jpg" alt=""></a>
+            <a href="https://telusinternational-ca.com/en/guatemala/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/telus.png" alt=""></a>
           </div>
         </div>
       </div>
@@ -166,6 +166,11 @@
         <div class="col-md-3 col-sm-3 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
             <a href="http://www.open-training.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/training.png" alt=""></a>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://www.facebook.com/gtdragons/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/gtdragons.png" alt=""></a>
           </div>
         </div>
       </div>

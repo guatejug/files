@@ -32,7 +32,7 @@
                 <span class="icon-bar"></span>
               </button>
               <a class="navbar-brand" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html"><img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/jdaylogo.png" alt="" height="80px"></a>
-<div id="google_translate_element"></div>
+              <div id="google_translate_element"></div>
             </div>
 
             <div class="collapse navbar-collapse" id="navbar">
