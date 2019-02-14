@@ -52,13 +52,21 @@
     <tbody>
 	  <tr>
         <td>09:00-10:00</td>
-        <td>TBA</td>
-        <td>Flecha Roja</td>
+        <td>
+          <a href="http://www.guate-jug.net/javaday2018/blog/2018/20-Bulkhead-circuit-breaker.html">
+          Bulkheads y Circuit Breakers en Java EE 8
+          </a>
+        </td>
+        <td>Gerardo Arroyo Arce</td>
       </tr>
 	  <tr>
         <td>10:00-11:00</td>
-        <td>TBA</td>
-        <td>I4T</td>
+        <td>
+		<a href="http://www.guate-jug.net/javaday2018/blog/2018/21-Spring-AWS.html">
+		Java - Microservicios con Spring en AWS
+		</a>
+		</td>
+        <td>Carlos López - Marvin Díaz</td>
       </tr>
 	  <tr>
         <td>11:00-12:00</td>
@@ -96,15 +104,16 @@
 		</td>
         <td>Fabio Andrés Turizo Correa</td>
       </tr>
-	  <tr>
+      <tr>
         <td>16:00-17:00</td>
         <td>
-		<a href="http://www.guate-jug.net/javaday2018/blog/2018/6-Java-9-10-mas.html">
-		Java 9, 10, 11 y más
+		<a href="http://www.guate-jug.net/javaday2018/blog/2018/14-Jakarta-future.html">
+		Java EE ahora es Jakarta EE: ¿Qué pasó? ¿Qué esta pasando? ¿A dónde va?
 		</a>
 		</td>
-        <td>Hillmer Ch.</td>
+        <td>Cesar Hernandez</td>
       </tr>
+	  <tr>
     </tbody>
   </table>
   </div>
@@ -121,36 +130,56 @@
     <tbody>
 	  <tr>
         <td>09:00-10:00</td>
-        <td>TBA</td>
-        <td>UCR</td>
+        <td>
+          <a href="http://www.guate-jug.net/javaday2018/blog/2018/24-Java-Linux.html">
+          Taller de configuración de un entorno de desarrollo de JAVA en la plataforma Linux.
+          </a>
+        </td>
+        <td>Aarón Galagarza Carrillo</td>
       </tr>
 	  <tr>
         <td>10:00-11:00</td>
-        <td>TBA</td>
-        <td>UCR</td>
+        <td>
+          <a href="http://www.guate-jug.net/javaday2018/blog/2018/26-Java-academico.html">
+          Alcance de los entornos de desarrollo utilizados para la programación en java: una perspectiva académica
+          </a>
+        </td>
+        <td>Rodrigo Camacho Bermudez</td>
       </tr>
 	  <tr>
         <td>11:00-12:00</td>
-        <td>TBA</td>
-        <td>UCR</td>
+        <td>
+          <a href="http://www.guate-jug.net/javaday2018/blog/2018/25-Java-juegos-2d.html">
+          Desarrollo de Videojuegos 2D en Java sin frameworks adicionales
+          </a>
+        </td>
+        <td>Roberto Escobar Aguero</td>
       </tr>
 	  <tr>
         <td>12:00-13:00</td>
-        <td>TBA</td>
-        <td>UCR</td>
+        <td>
+          <a href="http://www.guate-jug.net/javaday2018/blog/2018/23-Java-cursos-introductorios.html">
+          Uso del lenguaje Java en cursos iniciales de programación: Un caso de estudio del curso TM 1100 Introducción a la Informática y Tecnología Multimedia
+          </a>
+        </td>
+        <td>Mónica Muñoz Ramírez</td>
       </tr>
 	  <tr>
         <td>14:00-15:00</td>
-        <td>TBA</td>
-        <td>UCR</td>
+        <td>
+          <a href="http://www.guate-jug.net/javaday2018/blog/2018/22-Java-Cursos-Progra.html">
+          Experiencias del uso del lenguaje Java en los cursos de programación en la Carrera de Informática Empresarial en la UCR Sede del Pacífico, como herramienta cognitiva
+          </a>
+        </td>
+        <td>Wendy Vargas Hernandez</td>
       </tr>
 	  <tr>
         <td>15:00-16:00</td>
         <td>
-		<a href="http://www.guate-jug.net/javaday2018/blog/2018/9-Java-processing.html">
-		Introducción a Processing
-		</a>
-		</td>
+          <a href="http://www.guate-jug.net/javaday2018/blog/2018/9-Java-processing.html">
+          Introducción a Processing
+          </a>
+        </td>
         <td>Aldo Ebany Pérez Larios</td>
       </tr>
 	  <tr>
@@ -205,18 +234,22 @@
 	  <tr>
         <td>12:00-13:00</td>
         <td>
-			<a href="http://www.guate-jug.net/javaday2018/blog/2018/12-Kubernetes-Payara-Micro.html">
-			Fun with Kubernetes and Payara Micro 5
-			</a>
+		<a href="http://www.guate-jug.net/javaday2018/blog/2018/4-Monolith-serverless.html">
+		Nowadays Architecture Trends, from Monolith to Microservices and Serverless
+		</a>
 		</td>
-        <td>Fabio Andrés Turizo Correa</td>
+        <td>Alberto Salazar</td>
       </tr>
+
 	  <tr>
         <td>14:00-15:00</td>
-        <td>TBA</td>
-        <td>TBA</td>
+        <td>
+		<a href="http://www.guate-jug.net/javaday2018/blog/2018/18-Blockchain.html">
+		Blockchain
+		</a>
+		</td>
+        <td>Kevin Lajpop</td>
       </tr>
-	  <tr>
         <td>15:00-16:00</td>
         <td>
 		<a href="http://www.guate-jug.net/javaday2018/blog/2018/9-Java-processing.html">
@@ -249,15 +282,6 @@
     </thead>
     <tbody>
 	  <tr>
-        <td>10:00-11:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/javaday2018/blog/2018/18-Blockchain.html">
-		Blockchain
-		</a>
-		</td>
-        <td>Kevin Lajpop</td>
-      </tr>
-	  <tr>
         <td>11:00-12:00</td>
         <td>
 			<a href="http://www.guate-jug.net/javaday2018/blog/2018/15-Java-Oracle.html">
@@ -275,27 +299,7 @@
 		</td>
         <td>Marcos Luna</td>
       </tr>
-	  <tr>
-        <td>14:00-15:00</td>
-        <td>
-			<a href="http://www.guate-jug.net/javaday2018/blog/2018/17-Java-Oracle-Cloud.html">
-			Desplegando aplicaciones Java en Oracle Cloud
-			</a>
-		</td>
-        <td>Hillmer Ch.</td>
-      </tr>
 	  
-
-      <tr>
-        <td>15:00-16:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/javaday2018/blog/2018/14-Jakarta-future.html">
-		Java EE ahora es Jakarta EE: ¿Qué pasó? ¿Qué esta pasando? ¿A dónde va?
-		</a>
-		</td>
-        <td>Cesar Hernandez</td>
-      </tr>
-	  <tr>
         <td>16:00-17:00</td>
         <td>
 		<a href="http://www.guate-jug.net/javaday2018/blog/2018/19-Serverless.html">

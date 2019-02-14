@@ -1,6 +1,6 @@
 title=Fun with Kubernetes and Payara Micro 5
 date=2018-10-02
-type=post
+type=draft
 tags=Tools
 status=published
 img=fabio.jpg
