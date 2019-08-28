@@ -4,7 +4,37 @@ type=page
 status=published
 ~~~~~~
 
+JConf Guatemala is a free (as in free food) event. If you wish, you could collaborate by a small donation with included benefits.
+
 <div class="container">
 <div class="row">
-    <h2>TO BE ANNOUNCED</h2>
+    <div class="col-md-10 col-sm-10 col-xs-12">
+        <img src="http://guate-jug.net/jconf2019/img/chunchepack.jpg" alt="chunchepack" class="img-responsive"> 
+    </div>
 </div>
+</div>
+
+
+<br/>
+Otherwise, you are free to register :).
+<br/>
+<div id="eventbrite-widget-container-70723723561"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '70723723561',
+        iframeContainerId: 'eventbrite-widget-container-70723723561',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>

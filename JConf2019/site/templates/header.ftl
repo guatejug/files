@@ -38,7 +38,7 @@
     <!-- Twitter Card data -->
    <meta name="twitter:site" content="@guatejug">
    <meta name="twitter:creator" content="@tuxtor">
-    <meta name="twitter:image" content="http://guate-jug.net/jconf2019/img/post/${content.img}">
+    <meta name="twitter:image" content="http://guate-jug.net/jconf2019/img/post/<#if (content.img)??>${content.img}<#else>duke2019.jpg</#if>">
       <#if (content.summary)??>
        <meta name="description" content="${content.summary}" />
       	<meta name="twitter:card" value="${content.summary}">
@@ -49,7 +49,7 @@
       <!-- Open Graph data -->
       <meta property="og:title" content="${content.title}" />
       <meta property="og:type" content="article" />
-      <meta property="og:image" content="http://guate-jug.net/jconf2019/img/post/${content.img}" />
+      <meta property="og:image" content="http://guate-jug.net/jconf2019/img/post/<#if (content.img)??>${content.img}<#else>duke2019.jpg</#if>" />
       <#if (content.summary)??>
       	<meta property="og:description" content="${content.summary}" />
       <#else>
