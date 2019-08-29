@@ -137,6 +137,19 @@
             <a href="https://www.facebook.com/intecapcentrotics/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/intecap.jpg" alt=""></a>
           </div>
         </div>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://is4tech.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/i4t.png" alt=""></a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Junior Sponsors</h3>
+        <div class="col-md-3 col-sm-3 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="http://www.open-training.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/training.png" alt=""></a>
+          </div>
+        </div>
       </div>
 
 

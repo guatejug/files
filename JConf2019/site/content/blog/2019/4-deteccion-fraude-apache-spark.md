@@ -2,9 +2,10 @@ title=Detección de Fraude de Tarjeta de Crédito con Java y Apache Spark
 date=2019-08-23
 type=post
 tags=Big Data
-status=published
+status=draft
 category=Big Data
 twitter=hansospina
+img=hansospina.jpg
 ~~~~~~
 
 ## Title

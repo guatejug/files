@@ -1,4 +1,4 @@
-title=Introducción a Spark con Scala
+title=Apache Spark con Scala
 date=2019-08-27
 type=post
 tags=Alternative languages
@@ -10,7 +10,7 @@ img=geovannymendoza.jpg
 
 ## Title
 
-Introducción a Spark con Scala
+Apache Spark con Scala
 
 ## Presenter
 
