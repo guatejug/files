@@ -41,6 +41,7 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registration</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Schedule</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>telus-java-future.html">Party</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Venue</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">Guatemala</a></li>
@@ -54,6 +55,7 @@
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>registration.html">Registration</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>cfp.html">CFP</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Schedule</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>telus-java-future.html">Party</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Venue</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">Guatemala</a></li>
