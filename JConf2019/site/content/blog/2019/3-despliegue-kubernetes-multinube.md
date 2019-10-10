@@ -1,4 +1,4 @@
-title=Despliegue de aplicaciones en Kubernetes con Herramienta Devops en Multinube
+title=Despliegue de aplicaciones en Kubernetes con Herramienta Devops en Oracle Cloud
 date=2019-08-23
 type=post
 tags=Tools
@@ -10,7 +10,7 @@ img=josediaz.jpg
 
 ## Title
 
-Despliegue de aplicaciones en Kubernetes con Herramienta Devops en Multinube
+Despliegue de aplicaciones en Kubernetes con Herramienta Devops en Oracle Cloud
 
 ## Presenter
 
@@ -34,5 +34,4 @@ JUG Leader of PERU JUG. Java Champion
 
 Hoy es muy común desplegar aplicaciones contenerizadas en Kubernetes en cloud. Veremos como una herramienta Devops nos permite la gestión de proyectos, integración continua y delivery continuo en distintos PAAS de Kubernetes. Compartiremos lecciones aprendidas y las configuraciones a realizar.
 
-Vamos a ver como una arquitectura de microservicios se puede desplegar en kubernetes y automatizar el despliegue en ambiente de QA y PROD con Azure Devops en tres nubes muy utilizadas en el mercado: Azure, GCP y Oracle Cloud. Como parte del proceso usaremos sonarqube para validar el código, ejecución de pruebas y tomar decisión para desplegar o no, despliegue de versión en caso de proceso exitoso o rollback de ser necesario. Consideraciones para despliegue de varios proyectos a la vez.
-
+Vamos a ver como una arquitectura de microservicios se puede desplegar en kubernetes y automatizar el despliegue en ambiente de QA y PROD con Oracle Cloud. Como parte del proceso usaremos sonarqube para validar el código, ejecución de pruebas y tomar decisión para desplegar o no, despliegue de versión en caso de proceso exitoso o rollback de ser necesario. Consideraciones para despliegue de varios proyectos a la vez.

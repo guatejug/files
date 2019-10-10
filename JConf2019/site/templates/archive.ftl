@@ -37,11 +37,11 @@
 	  <tr>
         <td>09:00-10:00</td>
         <td>
-          <a>
-          TBD
+          <a href="http://www.guate-jug.net/jconf2019/blog/2019/20-spring-webflux-nosql.html">
+          Go Reactive with Spring WebFlux & NoSQL
           </a>
         </td>
-        <td>TBD</td>
+        <td>Erick Orozco Garma</td>
       </tr>
 	  <tr>
         <td>10:00-11:00</td>
@@ -218,8 +218,8 @@
 <tr>
         <td>14:00-15:00</td>
         <td>
-		<a >
-		Despliegue de aplicaciones con Jenkins X
+		<a href="http://www.guate-jug.net/jconf2019/blog/2019/19-despliegue-automatico-aplicaciones.html">
+		Despliegue Automático de Aplicaciones
 		</a>
 		</td>
         <td>Eduardo Palacios</td>
@@ -261,7 +261,7 @@
 	  <tr>
         <td>10:00-11:00</td>
         <td>
-		<a href="www.guate-jug.net/jconf2019/blog/2019/12-securing-auth0.html">
+		<a href="http://www.guate-jug.net/jconf2019/blog/2019/12-securing-auth0.html">
 		Securing Microservices in less than 40 minutes with Auth0 and MicroProfile
 		</a>
         <td>Fabio Turizo</td>

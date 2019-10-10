@@ -2,7 +2,7 @@ title=Chaos Engineering: Injecting failure for building resiliency in Spring Jav
 date=2019-08-23
 type=post
 tags=Server side
-status=published
+status=draft
 category=Server side
 twitter=yurynino
 ~~~~~~
