@@ -1,9 +1,9 @@
 title=Go Reactive with Spring WebFlux & NoSQL
 date=2019-08-27
 type=post
-tags=Tools
+tags=Server side
 status=published
-category=Tools
+category=Server side
 twitter=guatejug
 img=erick.jpg
 ~~~~~~

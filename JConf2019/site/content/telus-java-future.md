@@ -6,7 +6,18 @@ status=published
 
 GuateJUG and TELUS International present, "The future of Java Developers"
 
-![TELUS](img/sponsors/telus.png)
+<section id="sponsors" class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://www.telusinternational.com/locations/guatemala" target="_blank"><img class="img-responsive center-block" src="http://www.guate-jug.net/jconf2019/img/sponsors/telus.png" alt=""></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
 Please come and join us for an special and exclusive event. **A night with Java Champions, Java User Group Leaders, Oracle Certified Professionals and the community**.
 
@@ -15,14 +26,24 @@ Our discussion will be focused on one question:
 > **What is the future for Java developers in a polyglot world?**
 
 **When:** november 8 (friday), 19:00-22:00 PM
-**Where:** TELUS International Guatemala (more details coming)
-**How do I get in?:** Use the same [registration](/registration.html) form and look for the JConf+Party option
+**Where:** TELUS International Guatemala, 18 Calle 25-86 Zona 10 Torre Pradera, Pan-American Highway
+**How do I get in?:** Use the same [registration](http://www.guate-jug.net/jconf2019/registration.html) form and look for the JConf+Party option
 
-**Speakers:**
+## Speakers:
 
-## José Amadeo Diaz - Peru 
+### José Amadeo Diaz - Peru 
 
-![Jose](img/post/josediaz.jpg)
+<section id="speaker1" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <div class="sponsors-logo wow fadeInUp" data-wow-delay="0.1s">
+          <img class="img-responsive center-block" src="http://www.guate-jug.net/jconf2019/img/post/josediaz.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 Also known as JoeDayz due his 7k subscribers channel on youtube.
 
@@ -32,26 +53,66 @@ Co-founder of JoeDayz.pe, a company that has been recognized in the Peruvian mar
 
 Currently he is a Software Architecture manager at Farmacias Peruanas.
 
-## Fabio Turizo - Colombia
+### Fabio Turizo - Colombia
 
-![Fabio](img/post/fabio.jpg)
+<section id="speaker2" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <div class="sponsors-logo wow fadeInUp" data-wow-delay="0.1s">
+          <img class="img-responsive center-block" src="http://www.guate-jug.net/jconf2019/img/post/fabio.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 Fabio is a Software Engineer offering over 9 years in the IT industry with a focus on software architecture and development. Oracle Certified Professional and Specialist in Java SE and EE platforms. Currently working as part of the service team of Payara Services Limited and also part of the Toptal network of freelancers.
 
-## Esau Bethancourt - México
+### Esaú Betancourt - México
 
-![Esau](img/post/esau.jpg)
+<section id="speaker3" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <div class="sponsors-logo wow fadeInUp" data-wow-delay="0.1s">
+          <img class="img-responsive center-block" src="http://www.guate-jug.net/jconf2019/img/post/esau.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-Esau Betancourt Salazar is a software developer currently working for Nearsoft. He has worked on the design and implementation of projects for banks in the United States and Mexico for more than 10 years. A person with a great passion for technology, he is always trying to learn about the latest trends. He currently works as a consultant for a company that has all its infrastructure in AWS, where he has a roll as a developer of Java and Javascript applications.
+Esaú Betancourt Salazar is a software developer currently working for Nearsoft. He has worked on the design and implementation of projects for banks in the United States and Mexico for more than 10 years. A person with a great passion for technology, he is always trying to learn about the latest trends. He currently works as a consultant for a company that has all its infrastructure in AWS, where he has a roll as a developer of Java and Javascript applications.
 
-## Cesar Hernandez - Guatemala
+### Cesar Hernandez - Guatemala
 
-![Cesar Hernandez](img/post/cesar.jpg)
+<section id="speaker4" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <div class="sponsors-logo wow fadeInUp" data-wow-delay="0.1s">
+          <img class="img-responsive center-block" src="http://www.guate-jug.net/jconf2019/img/post/cesar.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 César Hernández is a Senior Software Engineer in Tomitribe with experience in Enterprise Java Applications. Holder of international awards such as Java Champion and Ducke's Choice award, he is an active participant in various Open Source projects and initiatives in Latin America, teacher and public speaker. When Caesar is with a computer, he likes spending time with his family, traveling and playing music with the Java Community Band, The Null Pointers.
 
-## Julian Rivera - El Salvador
+### Julian Rivera - El Salvador
 
-![Julian Rivera](img/post/julianrivera.jpg)
+<section id="speaker5" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-12">
+        <div class="sponsors-logo wow fadeInUp" data-wow-delay="0.1s">
+          <img class="img-responsive center-block" src="http://www.guate-jug.net/jconf2019/img/post/julianrivera.jpg" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 Senior Software Architect at Grupo Tecuan Working with Java Technology & OSS since 1999 with technologies like Java EE, Spring, Coldfusion and anything that runs on the JVM.

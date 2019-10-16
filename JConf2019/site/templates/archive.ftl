@@ -112,8 +112,16 @@
       </tr>
     </thead>
     <tbody>
-	  <tr>
+    <tr>
         <td>09:00-10:00</td>
+        <td>
+		<a href="http://www.guate-jug.net/jconf2019/blog/2019/21-java-collectios-intro.html">
+		Java Collections 101
+		</a>
+        <td>Sandy Merida</td>
+      </tr>
+	  <tr>
+        <td>10:00-11:00</td>
         <td>
           <a>
           Fundamentos de POO con Java
@@ -122,7 +130,7 @@
         <td>Maria Castillo</td>
       </tr>
 	  <tr>
-        <td>10:00-11:00</td>
+        <td>11:00-12:00</td>
         <td>
           <a>
             Documentación de APIs Java con OpenAPI
@@ -131,22 +139,13 @@
         <td>Edgar Vicente Suc</td>
       </tr>
 	  <tr>
-        <td>11:00-12:00</td>
+        <td>12:00-13:00</td>
         <td>
           <a>
           Eligiendo tu IDE en Java
           </a>
         </td>
         <td>Mario Batres</td>
-      </tr>
-	  <tr>
-        <td>12:00-13:00</td>
-        <td>
-          <a>
-          De Java 8 a Java 13
-          </a>
-        </td>
-        <td>Jorge Alejandro Cajas</td>
       </tr>
 	  <tr>
         <td>14:00-15:00</td>
@@ -166,6 +165,15 @@
         </td>
         <td>Aldo Ebany Pérez Larios</td>
       </tr>
+      <tr>
+        <td>16:00-17:00</td>
+        <td>
+		<a>
+		TBD
+		</a>
+		</td>
+        <td>TBD</td>
+      </tr>
     </tbody>
   </table>
   </div>
@@ -183,11 +191,11 @@
 	  <tr>
         <td>09:00-10:00</td>
         <td>
-		<a href="http://www.guate-jug.net/jconf2019/blog/2019/6-jenkins-java-cicd.html">
-      Integración (CI) , Entrega (DC) y Despliegue (DepC) continuo de un proyecto Java empresarial
+		<a >
+      TBD
 		</a>
 		</td>
-        <td>Omar Berroterán Silva</td>
+        <td>TBD</td>
       </tr>
 	  <tr>
         <td>10:00-11:00</td>
@@ -224,13 +232,23 @@
 		</td>
         <td>Eduardo Palacios</td>
       </tr>
+      <tr>
         <td>15:00-16:00</td>
         <td>
-		<a href="http://www.guate-jug.net/jconf2019/blog/2019/8-spark-scala.html">
-		Apache Spark con Scala
+          <a>
+          De Java 8 a Java 13
+          </a>
+        </td>
+        <td>Jorge Alejandro Cajas</td>
+      </tr>
+      <tr>
+        <td>16:00-17:00</td>
+        <td>
+		<a>
+		TBD
 		</a>
 		</td>
-        <td>Geovanny Mendoza Gonzalez</td>
+        <td>TBD</td>
       </tr>
 
 	  
