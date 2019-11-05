@@ -9,15 +9,14 @@ GuateJUG and TELUS International present, "The future of Java Developers"
 <section id="sponsors" class="section">
     <div class="container">
       <div class="row">
-        <div class="col-md-6 col-sm-6 col-xs-12">
-          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-            <a href="https://www.telusinternational.com/locations/guatemala" target="_blank"><img class="img-responsive center-block" src="http://www.guate-jug.net/jconf2019/img/sponsors/telus.png" alt=""></a>
+        <div class="col-md-8 col-sm-8 col-xs-12">
+          <div class="sponsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://www.telusinternational.com/locations/guatemala" target="_blank"><img class="img-responsive center-block" src="http://www.guate-jug.net/jconf2019/img/invite.png" alt=""></a>
           </div>
         </div>
       </div>
     </div>
   </section>
-
 
 Please come and join us for an special and exclusive event. **A night with Java Champions, Java User Group Leaders, Oracle Certified Professionals and the community**.
 
@@ -25,8 +24,11 @@ Our discussion will be focused on one question:
 
 > **What is the future for Java developers in a polyglot world?**
 
-**When:** november 8 (friday), 19:00-22:00 PM
-**Where:** TELUS International Guatemala, 18 Calle 25-86 Zona 10 Torre Pradera, Pan-American Highway
+**When:** November 8 (friday), 17:30-22:00 PM
+**Where:** TELUS International Guatemala, 18 Calle 25-86 Zona 10, Pan-American Highway
+
+Pradera West 9th floor  
+
 **How do I get in?:** Use the same [registration](http://www.guate-jug.net/jconf2019/registration.html) form and look for the JConf+Party option
 
 ## Speakers:

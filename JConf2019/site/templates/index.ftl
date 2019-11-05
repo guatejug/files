@@ -23,9 +23,9 @@
           <div class="item">
             <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-2.jpg" alt="">
             <div class="carousel-caption">
-              <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
+              <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule now available</h2>
               <div class="buttons">
-              <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">Read speakers</a></div>
+              <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See our amazing speakers</a></div>
               </div>
               <a data-scroll href="#featured">
               <div class="rev-scroll-btn wow fadeInUp" data-wow-delay="600ms">
@@ -145,6 +145,14 @@
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
             <a href="https://www.telusinternational.com/locations/guatemala" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/telus.png" alt=""></a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Master Sponsors</h3>
+        <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://www.healthcare.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/healthcare.png" alt=""></a>
           </div>
         </div>
       </div>

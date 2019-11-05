@@ -91,11 +91,11 @@
       <tr>
         <td>16:00-17:00</td>
         <td>
-		<a href="">
-      TBD
+		<a href="http://www.guate-jug.net/jconf2019/blog/2019/27-mvp-life.html">
+      The MVP Life and How to Avoid it
 		</a>
 		</td>
-        <td>TELUS</td>
+        <td>Boris Ruiz</td>
       </tr>
 	  <tr>
     </tbody>
@@ -123,7 +123,7 @@
 	  <tr>
         <td>10:00-11:00</td>
         <td>
-          <a>
+          <a href="http://www.guate-jug.net/jconf2019/blog/2019/26-java-poo.html">
           Fundamentos de POO con Java
           </a>
         </td>
@@ -132,7 +132,7 @@
 	  <tr>
         <td>11:00-12:00</td>
         <td>
-          <a>
+          <a href="http://www.guate-jug.net/jconf2019/blog/2019/25-java-openapi.html">
             Documentación de APIs Java con OpenAPI
           </a>
         </td>
@@ -141,7 +141,7 @@
 	  <tr>
         <td>12:00-13:00</td>
         <td>
-          <a>
+          <a href="http://www.guate-jug.net/jconf2019/blog/2019/24-ide-java.html">
           Eligiendo tu IDE en Java
           </a>
         </td>
@@ -150,7 +150,7 @@
 	  <tr>
         <td>14:00-15:00</td>
         <td>
-          <a>
+          <a href="http://www.guate-jug.net/jconf2019/blog/2019/23-android-rest.html">
           Como conectar tu aplicación Android a la web y no morir en el intento
           </a>
         </td>
@@ -208,11 +208,11 @@
 	  <tr>
         <td>11:00-12:00</td>
         <td>
-			<a href="http://www.guate-jug.net/jconf2019/blog/2019/17-vaadin-web-java.html">
-			Vaadin Framework - ( Web de alto Impacto en Java )
+			<a href="http://www.guate-jug.net/jconf2019/blog/2019/22-knockout-js-tomcat.html">
+			Knockoutjs: un duro golpe al tiempo de desarrollo web en Java
 			</a>
 		</td>
-        <td>Ricardo Cantillo</td>
+        <td>Marco Monzón</td>
       </tr>
 	  <tr>
         <td>12:00-13:00</td>
