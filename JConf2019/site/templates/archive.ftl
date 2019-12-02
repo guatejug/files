@@ -16,9 +16,9 @@
 	<div class="container">
   <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Main stage</a></li>
-  <li><a data-toggle="tab" href="#menu1">Begginers</a></li>
-  <li><a data-toggle="tab" href="#menu2">Intermediate</a></li>
-  <li><a data-toggle="tab" href="#menu3">Advanced</a></li>
+  <li><a data-toggle="tab" href="#menu1">Begginers-303</a></li>
+  <li><a data-toggle="tab" href="#menu2">Intermediate-Fablab 4to.</a></li>
+  <li><a data-toggle="tab" href="#menu3">Advanced-302</a></li>
 </ul>
 
 
@@ -102,7 +102,7 @@
   </table>
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h3>Begginers</h3>
+    <h3>Begginers - 303</h3>
     <table class="table">
     <thead>
       <tr>
@@ -132,6 +132,15 @@
 	  <tr>
         <td>11:00-12:00</td>
         <td>
+          <a href="http://www.guate-jug.net/jconf2019/blog/2019/28-kotlin-coroutines.html">
+            Hakuna Matata: Koin, Koroutines & all the Kotlin love for Android
+          </a>
+        </td>
+        <td>Adrian Catalan</td>
+      </tr>
+	  <tr>
+        <td>12:00-13:00</td>
+        <td>
           <a href="http://www.guate-jug.net/jconf2019/blog/2019/25-java-openapi.html">
             Documentación de APIs Java con OpenAPI
           </a>
@@ -139,7 +148,7 @@
         <td>Edgar Vicente Suc</td>
       </tr>
 	  <tr>
-        <td>12:00-13:00</td>
+        <td>14:00-15:00</td>
         <td>
           <a href="http://www.guate-jug.net/jconf2019/blog/2019/24-ide-java.html">
           Eligiendo tu IDE en Java
@@ -148,7 +157,7 @@
         <td>Mario Batres</td>
       </tr>
 	  <tr>
-        <td>14:00-15:00</td>
+        <td>15:00-16:00</td>
         <td>
           <a href="http://www.guate-jug.net/jconf2019/blog/2019/23-android-rest.html">
           Como conectar tu aplicación Android a la web y no morir en el intento
@@ -156,8 +165,8 @@
         </td>
         <td>Max Cerna</td>
       </tr>
-	  <tr>
-        <td>15:00-16:00</td>
+      <tr>
+        <td>16:00-17:00</td>
         <td>
           <a>
           Creación de aplicaciones interactivas con JavaFX
@@ -165,20 +174,11 @@
         </td>
         <td>Aldo Ebany Pérez Larios</td>
       </tr>
-      <tr>
-        <td>16:00-17:00</td>
-        <td>
-		<a>
-		TBD
-		</a>
-		</td>
-        <td>TBD</td>
-      </tr>
     </tbody>
   </table>
   </div>
   <div id="menu2" class="tab-pane fade">
-    <h3>Intermediate</h3>
+    <h3>Intermediate - Fablab 4to nivel</h3>
     <table class="table">
     <thead>
       <tr>
@@ -201,7 +201,7 @@
         <td>10:00-11:00</td>
         <td>
 		<a href="http://www.guate-jug.net/jconf2019/blog/2019/15-digital-signature.html">
-		The Advanced Digital Signature
+		The Advanced Digital Signature - CANCELADO
 		</a>
         <td>Gustavo Adolfo de León Pineda</td>
       </tr>
@@ -257,7 +257,7 @@
   </table>
   </div>
   <div id="menu3" class="tab-pane fade">
-    <h3>Advanced</h3>
+    <h3>Advanced - 302</h3>
     <table class="table">
     <thead>
       <tr>
