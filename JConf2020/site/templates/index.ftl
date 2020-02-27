@@ -130,6 +130,14 @@
           <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">GuateJUG is possible thanks to these amazing sponsors.</p>
         </div>
       </div>
+      <div class="row">
+        <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Champion Sponsors</h3>
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+            <a href="https://www.facebook.com/intecapcentrotics/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/intecap.jpg" alt=""></a>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
 
