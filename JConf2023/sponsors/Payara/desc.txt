@@ -1,0 +1,18 @@
+ 	
+
+Payara Platform Enterprise
+
+25-word description 
+	
+
+Payara Platform is first for Jakarta EE. It is stable, supported software based on Jakarta EE and MicroProfile standards for mission critical production systems in any environment: on premise, in the cloud, or hybrid.
+
+50-word description 
+	
+
+Payara Platform Enterprise is stable, supported software based on Jakarta EE and MicroProfile standards for mission critical production systems in any environment: on premise, in the cloud, or hybrid. Build your monolith or microservices application once and deploy it anywhere quickly and securely - from edge to the cloud.
+
+100-word description 
+	
+
+Payara Platform Enterprise is stable, supported software for enterprise designed for mission-critical production systems and containerized Jakarta EE (Java EE) and MicroProfile applications. Quickly and easily deliver Jakarta EE (Java EE)  apps in any environment: on premise, in the cloud, or hybrid with enterprise-grade security. A 10-year software lifecycle lets you decide when to migrate from one release to the next and a choice of 24x7 or 10x5 production support ensures you're fully covered when you need it. You will benefit from best-in-class guides and documentation. You will work with an intelligent platform that delivers data, analytics, awareness, and actions to optimise Jakarta EE apps. Payara platform enables developers to choose best API’s and architecture to build the best applications. Choose Payara Server for reliable and secure deployments of Jakarta EE and MicroProfile applications in any environment, or Payara Micro for containerized microservices deployments with no installation, configuration, or code rewrites required. Our customers recommend Payara Platform Enterprise for its great features, simplicity of use, useful documentation, and the fast response support. 
