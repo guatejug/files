@@ -28,4 +28,5 @@
     -  TIEMPO    : 60 Minutos
     -  RESUMEN   : Tecnologías como Web Components están cambiando la forma en que los desarrolladores crean aplicaciones web. Vaadin Flow, usa Web Components y proporciona un sencillo mecanismo para crear interfaces de usuario web modernas usando sólo el lenguaje Java.
     -  NIVEL     : BASICO - INTERMEDIO
-    -  TAGS      : Java, Microservicios, Docker, Spring Boot
+    -  TAGS      : Java, Microservicios, Docker, Spring Boot , #telodijoelgio
+
