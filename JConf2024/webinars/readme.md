@@ -19,4 +19,13 @@
     -  RESUMEN   : El desarrollo de microservicios con Spring Boot y Docker implica crear aplicaciones de software compuestas por varios servicios pequeños y autonomos, cada uno ejecutandose en su propio proceso y comunicandose a traves de APIs bien definidas, generalmente REST.
     -  NIVEL     : BASICO - INTERMEDIO
     -  TAGS      : Java, Microservicios, Docker, Spring Boot
-- GEOVANY MENDOZA (COLOMBIA) OCTUBRE 
+### GEOVANY MENDOZA (COLOMBIA) OCTUBRE
+    -  FECHA     : 11 DE OCTUBRE 2024
+    -  CORREO    : geovanny0401@gmail.com
+    -  TITULO    : Construir aplicaciones web modernas para Java con Vaadin
+    -  PAIS      : GUATEMALA
+    -  BIOGRAFIA : Ingeniero de Software con experiencia en proyectos de mediana escala, desde arquitecturas monolíticas hasta microservicios. Especializado en Java y Kotlin, con habilidades en desarrollo backend, CI/CD, bases de datos (SQL y NoSQL), AWS y tecnologías Spring.
+    -  TIEMPO    : 60 Minutos
+    -  RESUMEN   : Tecnologías como Web Components están cambiando la forma en que los desarrolladores crean aplicaciones web. Vaadin Flow, usa Web Components y proporciona un sencillo mecanismo para crear interfaces de usuario web modernas usando sólo el lenguaje Java.
+    -  NIVEL     : BASICO - INTERMEDIO
+    -  TAGS      : Java, Microservicios, Docker, Spring Boot
