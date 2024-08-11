@@ -1,5 +1,6 @@
 ## SPEAKERS
-- KEVIN MORALES  (ECUADOR) AGOSTO
+### KEVIN MORALES  (ECUADOR) AGOSTO
+    -  FECHA     : 23 DE AGOSTO 2024
     -  CORREO    : kfmorales94@gmail.com
     -  TITULO    : Performance with Higher Order Functions
     -  PAIS      : ECUADOR
@@ -8,7 +9,8 @@
     -  RESUMEN   : En esta ocasion estare realizando un aplicacian en la que contenga una lista de elementos y mostrar diferencias usando funciones convencionales vs funciones de orden superior, las cuales mejoraran el performance para nuestras   aplicaciones moviles desarrolladas en Java. Por ultimo, estare presentando como mejorar nuestra productividad con Gemini en Android Stuido.
     -  NIVEL     : BASICO-INTERMEDIO    
     -  TAGS     : Funciones de orden superior, Higher Order Functions, Java, Listas, Mobile, Optimizacion
-- PABLO MEDRANO (GUATEMALA) SEPTIEMBRE
+### PABLO MEDRANO (GUATEMALA) SEPTIEMBRE
+    -  FECHA     : 13 DE SEPTIEMBRE 2024
     -  CORREO    : auxmedrano@gmail.com
     -  TITULO    : Desarrollo de Microservicios con Spring Boot y Docker
     -  PAIS      : GUATEMALA
