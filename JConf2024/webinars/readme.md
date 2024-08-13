@@ -1,6 +1,7 @@
 ## SPEAKERS
 ### KEVIN MORALES  (ECUADOR) AGOSTO
     -  FECHA     : 23 DE AGOSTO 2024
+    -  HORA      : 18:30 
     -  CORREO    : kfmorales94@gmail.com
     -  TITULO    : Performance with Higher Order Functions
     -  PAIS      : ECUADOR
@@ -11,6 +12,7 @@
     -  TAGS     : Funciones de orden superior, Higher Order Functions, Java, Listas, Mobile, Optimizacion
 ### PABLO MEDRANO (GUATEMALA) SEPTIEMBRE
     -  FECHA     : 13 DE SEPTIEMBRE 2024
+    -  HORA      : 18:00 
     -  CORREO    : auxmedrano@gmail.com
     -  TITULO    : Desarrollo de Microservicios con Spring Boot y Docker
     -  PAIS      : GUATEMALA
@@ -21,6 +23,7 @@
     -  TAGS      : Java, Microservicios, Docker, Spring Boot
 ### GEOVANY MENDOZA (COLOMBIA) OCTUBRE
     -  FECHA     : 11 DE OCTUBRE 2024
+    -  HORA      : 18:00 
     -  CORREO    : geovanny0401@gmail.com
     -  TITULO    : Construir aplicaciones web modernas para Java con Vaadin
     -  PAIS      : GUATEMALA
