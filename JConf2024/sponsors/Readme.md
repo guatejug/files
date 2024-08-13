@@ -1,5 +1,5 @@
 # SPONSORS
-### POSIBLES
+### Pendiente de Invitar
  - Yalutec
  - BDG
  - Allied Global
