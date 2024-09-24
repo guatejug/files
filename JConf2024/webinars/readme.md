@@ -22,7 +22,7 @@
     -  NIVEL     : BASICO - INTERMEDIO
     -  TAGS      : Java, Microservicios, Docker, Spring Boot
 ### GEOVANY MENDOZA (COLOMBIA) OCTUBRE
-    -  FECHA     : 11 DE OCTUBRE 2024
+    -  FECHA     : 15 DE OCTUBRE 2024
     -  HORA      : 18:00 
     -  CORREO    : geovanny0401@gmail.com
     -  TITULO    : Construir aplicaciones web modernas para Java con Vaadin
