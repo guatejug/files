@@ -1,6 +1,6 @@
 ## SPEAKERS
 
-### JOSE OVENIEL GALDAMEZ RAMOS  JULIO
+### JOSE OVENIEL GALDAMEZ RAMOS (HONDURAS)  JULIO
     -  FECHA     : Viernes 11 DE JULIO 2025
     -  HORA      : 18:00 
     -  CORREO    : josegaldamez1991@gmail.com
@@ -26,7 +26,7 @@
     -  TAGS     : Firebase, FirebaseStudio, AndroidDev, Java, Firestore, RealTimeDatabase, MobileDevelopment, NoBackend, JConf2025, DevGuatemala, FirebaseForAndroid, LiveDemo, CRUDApp
 
 
-### OLIVER SIERRA  (ECUADOR) JULIO
+### OLIVER SIERRA  (GUATEMALA) JULIO
     -  FECHA     : AGOSTO 14 DE JULIO 2025
     -  HORA      : 18:00 
     -  CORREO    : sierra.oe@gmail.com
