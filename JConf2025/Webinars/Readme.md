@@ -29,9 +29,9 @@
 ### OLIVER SIERRA  (ECUADOR) JULIO
     -  FECHA     : AGOSTO 14 DE JULIO 2025
     -  HORA      : 18:00 
-    -  CORREO    : kfmorales94@gmail.com
+    -  CORREO    : sierra.oe@gmail.com
     -  TITULO    : Introducción a Domain Driven Design
-    -  PAIS      : ECUADOR
+    -  PAIS      : GUATEMALA
     -  BIOGRAFIA : Ayudo a desarrolladores informáticos creativos a crear sistemas sencillos y elegantes basados en el diseño orientado al dominio para que puedan conseguir arquitecturas fiables.
     -  TIEMPO    : 45 minutos 
     -  RESUMEN   : En esta charla exploraremos cómo Domain-Driven Design (DDD) en Java nos ayuda a construir software cohesivo, bien estructurado y con un acoplamiento adecuado, evitando dolores de cabeza futuros. Además, veremos cómo algunos principios se complementan para guiarnos hacia un diseño más robusto y mantenible.
