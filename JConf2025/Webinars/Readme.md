@@ -26,7 +26,7 @@
     -  TAGS     : Firebase, FirebaseStudio, AndroidDev, Java, Firestore, RealTimeDatabase, MobileDevelopment, NoBackend, JConf2025, DevGuatemala, FirebaseForAndroid, LiveDemo, CRUDApp
 
 
-### OLIVER SIERRA  (GUATEMALA) JULIO
+### OLIVER SIERRA  (GUATEMALA) AGOSTO
     -  FECHA     : JUEVES 14 DE AGOSTO 2025
     -  HORA      : 18:00 
     -  CORREO    : sierra.oe@gmail.com
