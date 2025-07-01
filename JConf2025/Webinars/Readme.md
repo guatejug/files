@@ -27,7 +27,7 @@
 
 
 ### OLIVER SIERRA  (GUATEMALA) JULIO
-    -  FECHA     : AGOSTO 14 DE JULIO 2025
+    -  FECHA     : JUEVES 14 DE AGOSTO 2025
     -  HORA      : 18:00 
     -  CORREO    : sierra.oe@gmail.com
     -  TITULO    : Introducción a Domain Driven Design
