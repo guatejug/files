@@ -14,7 +14,7 @@
 
 
 ### KEVIN MORALES  (ECUADOR) JULIO
-    -  FECHA     : Jueves 23 DE JULIO 2025
+    -  FECHA     : Miercoles 23 DE JULIO 2025
     -  HORA      : 18:00 
     -  CORREO    : kfmorales94@gmail.com
     -  TITULO    : Firebase Studio + Java: tu primer backend visual con sincronización en tiempo real
