@@ -37,3 +37,17 @@
     -  RESUMEN   : En esta charla exploraremos cómo Domain-Driven Design (DDD) en Java nos ayuda a construir software cohesivo, bien estructurado y con un acoplamiento adecuado, evitando dolores de cabeza futuros. Además, veremos cómo algunos principios se complementan para guiarnos hacia un diseño más robusto y mantenible.
     -  NIVEL     : BASICA    
     -  TAGS     : java, DDD, design, 
+
+
+    
+### JAIME DELGADO  (PERU) AGOSTO
+    -  FECHA     : JUEVES 28 DE AGOSTO 2025
+    -  HORA      : 18:00 
+    -  CORREO    : mitocode21@gmail.com
+    -  TITULO    : IA Generativa en Spring
+    -  PAIS      : PERU
+    -  BIOGRAFIA : Jaime Medina, creador del canal MITOCODE y la academía del mismo nombre, brindando contenido sobre programación a toda Latinoamérica.
+    -  TIEMPO    : 45 minutos 
+    -  RESUMEN   : Se explicará fundamentos de IA Generativa y como el uso de Spring AI facilita la integración con LLMs populares de la industria.
+    -  NIVEL     : BASICA    
+    -  TAGS     : mitocode, spring boot, spring ai, java
