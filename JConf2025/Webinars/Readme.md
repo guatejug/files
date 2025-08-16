@@ -66,8 +66,8 @@
     -  TAGS     : #CambioDeCarrera  #TransicionProfesional  #AprenderAProgramar  #DesarrolloDeSoftware  #SuperarElMiedo  #MentalidadDeCrecimiento  #Agile #TipsParaProgramar #InspiracionTech
 
 
-### RICARDO ROMERO  (ESPAÑA) AGOSTO
-    -  FECHA     : JUEVES 22 DE SEPTIEMBRE 2025
+### RICARDO ROMERO  (ESPAÑA) SEPTIEMBRE
+    -  FECHA     : JUEVES 25 DE SEPTIEMBRE 2025
     -  HORA      : 18:00 
     -  CORREO    : ricardo@programandoenjava.com
     -  TITULO    : Desacoplando tu frameworks favorito
