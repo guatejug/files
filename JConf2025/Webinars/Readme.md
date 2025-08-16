@@ -40,7 +40,7 @@
 
 
     
-### JAIME DELGADO  (PERU) AGOSTO
+### JAIME MEDINA  (PERU) AGOSTO
     -  FECHA     : JUEVES 28 DE AGOSTO 2025
     -  HORA      : 18:00 
     -  CORREO    : mitocode21@gmail.com
@@ -51,3 +51,32 @@
     -  RESUMEN   : Se explicará fundamentos de IA Generativa y como el uso de Spring AI facilita la integración con LLMs populares de la industria.
     -  NIVEL     : BASICA    
     -  TAGS     : mitocode, spring boot, spring ai, java
+
+
+### DAVID SANCHEZ  (GUATEMALA) SEPTIEMBRE
+-  FECHA     : JUEVES 11 DE SEPTIEMBRE 2025
+-  HORA      : 18:00 
+-  CORREO    : dasanchezzdev@gmail.com
+-  TITULO    : Refactorizando mi carrera profesional, de la gestión al desarrollo de software.
+-  PAIS      : GUATEMALA
+-  BIOGRAFIA : Hola a todos, soy David Sánchez. Actualmente, me desempeño como desarrollador de software. Mi camino hasta aquí ha sido una evolución fascinante, ya que anteriormente fui Product Owner y líder Agile. Esa experiencia me dio una perspectiva única sobre la gestión de productos y la optimización de procesos. Hoy, combino esa visión estratégica con mi pasión por la construcción de soluciones, sumergiéndome de lleno en el código. Estoy emocionado de compartir mi viaje y cómo mi experiencia previa me ha convertido en el desarrollador que soy hoy. ¡Gracias!
+-  TIEMPO    : 45 minutos 
+-  RESUMEN   : ¡Anímate a Programar! Superando el Miedo al Cambio En esta charla, David Sánchez nos compartirá su inspirador viaje de una trayectoria en gestión y liderazgo de producto a su actual rol como desarrollador de software. David nos demostrará que el cambio no solo es posible, sino que puede abrir puertas a nuevas pasiones y oportunidades en el mundo de la programación.A menudo, el miedo a lo desconocido nos frena, pero David nos guiará a través de 5 tips clave que lo ayudaron a dar el salto y prosperar en un nuevo rol técnico. Prepárense para desmitificar la programación, abrazar la curva de aprendizaje y descubrir cómo una mentalidad abierta puede transformar su carrera. ¡Si David pudo, tú también puedes!Temas a cubrir:Desmitificando el código: Por qué no necesitas ser un genio.El poder de la curiosidad: Cómo empezar a explorar.Aprender haciendo: La importancia de los proyectos pequeños.La comunidad es clave: No estás solo en este viaje.
+
+Abraza el fracaso: Cada error es un paso adelante..
+-  NIVEL     : BASICA    
+-  TAGS     : #CambioDeCarrera  #TransicionProfesional  #AprenderAProgramar  #DesarrolloDeSoftware  #SuperarElMiedo  #MentalidadDeCrecimiento  #Agile #TipsParaProgramar #InspiracionTech
+
+
+### RICARDO ROMERO  (ESPAÑA) AGOSTO
+    -  FECHA     : JUEVES 22 DE SEPTIEMBRE 2025
+    -  HORA      : 18:00 
+    -  CORREO    : ricardo@programandoenjava.com
+    -  TITULO    : Desacoplando tu frameworks favorito
+    -  PAIS      : ESPAÑA
+    -  BIOGRAFIA : Programador JAVA con más de 12 años de experiencia, creador de contenido de "Programando en Java"
+    -  TIEMPO    : 45 minutos 
+    -  RESUMEN   : Como no acoplar tu código a tu framework y de esta forma poder cambiar de framework fácilmente
+    -  NIVEL     : AVANZADA    
+    -  TAGS     : spring, java, desacoplar, micronaut
+
