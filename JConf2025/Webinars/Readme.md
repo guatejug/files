@@ -83,7 +83,7 @@
     -  HORA      : 18:00 
     -  CORREO    : eudris@gmail.com
     -  TITULO    : Java ha cambiado: ¿Por qué tú no?
-    -  PAIS      : ESPAÑA
+    -  PAIS      : REPUBLICA DOMINICANA
     -  BIOGRAFIA : Ingeniero Telemático (Egresado de PUCMM). Actualmente software development engineer en Episode Six. Entusiasta de la tecnología y el software libre, desarrollador Java, instructor ocasional (Java / Linux), aficionado del béisbol/sóftbol y los bailes latinos.  Ganador de la beca Linux Training Scholarship 2014 en la categoría Developer Do-Gooder. Miembro asociado del JCP (Java Community Process). Co-fundador/Organizador del grupo de usuarios Java (Java User Group ) de la República Dominicana (aka Java Dominicano) y JConf Dominicana (https://jconfdominicana.org).  En el tiempo libre, escribe artículos, realiza charlas y ayuda en la revisión de documentación técnica en el mundo Java y el código abierto.
     -  TIEMPO    : 45 minutos 
     -  RESUMEN   : Java ha evolucionado mucho desde Java 8, pero muchos equipos siguen escribiendo código como si aún estuviéramos en 2014. ¿Por qué? Porque aunque el lenguaje ha incorporado características modernas (lambdas, Stream API, Optional, records, sealed classes, etc.), muchos desarrolladores siguen aferrados a patrones anticuados o, peor aún, adoptan malas prácticas con las nuevas funcionalidades.
