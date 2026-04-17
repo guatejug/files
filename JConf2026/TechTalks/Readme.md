@@ -1,5 +1,5 @@
 ### RICARDO ROMERO  (ESPAÑA) ABRIL
-    -  FECHA     : JUEVES 23 DE ABRIL 2025
+    -  FECHA     : JUEVES 23 DE ABRIL 2026
     -  HORA      : 16:00 
     -  CORREO    : ricardo@programandoenjava.com
     -  TITULO    : Cómo ser AI Engineer con JAVA, y no morir en el intento
@@ -11,7 +11,7 @@
     -  TAGS     : spring, java, desacoplar, micronaut
 
 ### ABRAHAM MARIN PEREZ  (LONDRES) MAYO
-    -  FECHA     : JUEVES 23 DE ABRIL 2025
+    -  FECHA     : JUEVES 14 DE MAYO 2026
     -  HORA      : 16:00 
     -  CORREO    : abraham.marin.perez@gmail.com
     -  TITULO    : Normas de seguridad prácticas para el desarrollo Java asistido por IA
