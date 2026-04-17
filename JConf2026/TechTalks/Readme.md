@@ -1,1 +1,11 @@
-
+### RICARDO ROMERO  (ESPAÑA) ABRIL
+    -  FECHA     : JUEVES 23 DE ABRIL 2025
+    -  HORA      : 16:00 
+    -  CORREO    : ricardo@programandoenjava.com
+    -  TITULO    : Cómo ser AI Engineer con JAVA, y no morir en el intento
+    -  PAIS      : ESPAÑA
+    -  BIOGRAFIA : Programador JAVA con más de 12 años de experiencia, creador de contenido de "Programando en Java"
+    -  TIEMPO    : 45 minutos 
+    -  RESUMEN   : En un mundo apoderado por IA, dónde la mayoría de los casos se piensan en lenguajes como Python o Javascript, existe un hueco que casi nadie tiene en cuenta, JAVA.En esta sesión abordaremos que es un AI Engineer, cuales son sus funciones y una demostración sobre de que forma podemos adaptar JAVA y Spring para convertirse en un gran AI Engineer con todas las funcionalidades que nos brinda nuestro lenguaje de programación favorito y su framework más usado.
+    -  NIVEL     : AVANZADA    
+    -  TAGS     : spring, java, desacoplar, micronaut
