@@ -19,5 +19,18 @@
     -  BIOGRAFIA : Abraham Marín Pérez, experto en Java y metodologías ágiles con cerca de veinte años de experiencia, se ha consolidado como una figura de referencia en el desarrollo de software. 
     -  TIEMPO    : 45 minutos 
     -  RESUMEN   : El desarrollo asistido por IA promete acelerar el desarrollo, cosa que mayormente consigue. Sin embargo, la velocidad sin control sólo lleva al fallo con mayor rapidez.Es por eso que se habla tanto de estrategias de seguridad para contener la IA, con técnicas como las lonchas de queso suizo y el bucle de Ralph Wiggum. La mayoría de estos enfoques cometen el mismo error fundamental: implementan las barreras dentro de la propia IA, confiando en la misma entidad contra la que intentan protegerse. Los modelos de lenguaje funcionan porque son indeterministas, y esa misma propiedad significa que las reglas establecidas dentro del modelo pueden ser ignoradas (y con frecuencia lo son). Unas medidas de seguridad efectivas tienen que vivir donde la IA no pueda manipularlas.
-    -  NIVEL     : AVANZADA    
+    -  NIVEL     : PRINCIPIANTE-INTERMEDIA       
     -  TAGS     : AI, java, Development, Security
+
+
+### HECTOR VENTURA (REPUBLICA DOMINICANA) JUNIO
+    -  FECHA     : MARTES 09 DE JUNIO 2026
+    -  HORA      : 18:00 
+    -  CORREO    : hectorvent@gmail.com
+    -  TITULO    : Floci, the Localstack alternative
+    -  PAIS      : REPUBLICA DOMINICANA
+    -  BIOGRAFIA : Construyo herramientas que realmente necesito. Mis últimos proyectos son Floci — un emulador de servicios AWS rápido, gratuito y con licencia MIT — y Floci-Az — su compañero para Azure. También me enorgullece ser uno de los 1,000 contribuyentes de Quarkus, y también he contribuido a los proyectos Debezium y Eclipse Vert.x Estas participaciones en la comunidad de código abierto ayudan a moldear mi pasión por construir sistemas nativos en la nube de alto rendimiento.
+    -  TIEMPO    : 45 minutos 
+    -  RESUMEN   : Floci is a local AWS emulator. It is a Localstack drop inplace. Develop in Java (Quarkus/GraalVM)
+    -  NIVEL     : PRINCIPIANTE-INTERMEDIA    
+    -  TAGS     : AWS, CloudComputing, Quarkus, Java , GraalVM
